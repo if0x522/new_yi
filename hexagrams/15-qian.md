@@ -96,6 +96,14 @@
   - 谦的效果不靠"信则灵"验证：以 credit 分配、人才留存、决策质量等数据检验（硬边界 1）。
 - **验证方式**：功劳归属的团队评价 vs 自评差值、异见上达频率、分配基尼系数/倾斜度、骄满预警触发次数、"征不服"处理的合规留痕、名实差值监控。
 
+### 现代实例
+
+**实例 1：Costco 的低加价与高工资（1983 起）**
+- 事件经过：Costco 自 1983 年创立起把"极低加价上限"定为公司政策（公司官方《Costco Connection》口径："An extremely low markup maximum on all merchandise has been company policy since its founding in 1983"；业界常引 14%（自有品牌 15%）上限口径），利润主要靠会员费而非商品差价；同时持续支付高于零售业普遍水平的工资——2021 年 10 月把美国起薪提至 17 美元/小时（当年内第二次上调），多数资深时薪员工超过 25 美元。
+- 对应结构："地中有山，谦"（有实力而处下：可赚的差价主动不赚）＋"裒多益寡，称物平施"（取多补少：让利给会员、向员工分配）＋"劳谦"（以高工资回报劳动、内部晋升为主）。
+- 边界与条件：加价上限具体数字（14%/15%）为业界常引口径，公司官方口径为"极低加价上限政策"，数字标"待核"；工资数字按 2021-10 调整口径（$16→$17）；此例只核验"让利—分配"结构，不构成对公司的评价（硬边界 1、2）。
+- 来源：[Costco Connection（公司官方刊物）：September 2025, Page 4（HTTP 200）](https://www.costcoconnection.com/september_2025/page4.html)；[CNN：Costco raised its minimum wage to $17 an hour（2021-10-27，HTTP 200）](https://www.cnn.com/2021/10/27/business/costco-minimum-wage)；[Nasdaq/Motley Fool：How Costco Makes Money（含 14%/15% 加价上限口径）](https://www.nasdaq.com/articles/how-costco-makes-money-despite-150-hot-dog-combos)
+
 ## 六、与其他卦的关联
 
 - **01 乾**：谦是"亢"的解药——上九"亢龙有悔，盈不可久"与彖传"亏盈而益谦"同一条反馈曲线的两端；用九"群龙无首"（不以首领自居）正是劳谦的协同版。

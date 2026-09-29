@@ -30,16 +30,28 @@
 | 04 蒙 | 可汗学院从辅导表妹起步（2004–2008） | 童蒙求我→初筮告→蒙以养正的教育成立次序 | [Khan Academy（HTTP 200）](https://www.khanacademy.org/about) / [官方支持页（curl 403 反爬）](https://support.khanacademy.org/hc/en-us/articles/202483180) |
 | 05 需 | Pixar 十年长等待（1986–1995） | 需于酒食：养众待时、条件齐备即动 | [The Walt Disney Company（官方，HTTP 200）](https://thewaltdisneycompany.com/news/toy-story-pixar-history/) |
 | 08 比 | 开放手机联盟 OHA（2007） | 显比式公开结盟：开源规则、进出自由（三驱失前禽） | [通信百科（HTTP 200）](https://baike.c114.com.cn/view.asp?id=9590-DDCBA424) / [HandWiki（HTTP 200）](https://handwiki.org/wiki/Organization:Open_Handset_Alliance) / [百度百科（curl 403 反爬）](https://baike.baidu.com/item/%E5%BC%80%E6%94%BE%E6%89%8B%E6%9C%BA%E8%81%94%E7%9B%9F/0) |
+| 41 损 | 万豪高管先减薪的成本承担次序（2020） | 损有孚＋酌损之：CEO 零薪、执行层减半、公开数据立信 | [S&P Global（curl 403 反爬）](https://www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/marriott-ceo-chairman-among-execs-to-forgo-some-pay-in-2020-57694779) / [Cornell News（HTTP 200）](https://news.cornell.edu/media-relations/tip-sheets/marriott-ceo-salary-cut-new-best-practice-amid-coronavirus-pandemic) / [MarketWatch（curl 401 反爬）](https://www.marketwatch.com/story/marriott-ceos-2020-compensation-fell-by-33-as-adjusted-eps-came-in-significantly-below-targets-2021-04-05) |
+| 42 益 | 田纳西流域管理局 TVA（1933 起） | 利用为大作＋益之用凶事：新政公共工程下放最贫困地区 | [U.S. Capitol Visitor Center（HTTP 200）](https://www.visitthecapitol.gov/artifact/president-franklin-d-roosevelts-message-congress-tennessee-valley-authority-april-10-1933) / [FDR Library（HTTP 200）](http://docs.fdrlibrary.marist.edu/odtva.html) |
+| 43 夬 | 美国司法部公开起诉 FIFA 高官（2015） | 扬于王庭＋不利即戎：公开起诉书、司法程序清算积弊，孚号有厉 | [DOJ 新闻稿存档（2015-05-27，curl 超时：沙箱出口不通，不作孤证）](https://www.justice.gov/archives/opa/pr/nine-fifa-officials-and-five-corporate-executives-indicted-racketeering-conspiracy-and) / [IRS 公告（官方，HTTP 200，本例备选主源）](https://www.irs.gov/zh-hant/compliance/criminal-investigation/justice-department-approves-remission-of-over-32-million-in-forfeited-funds-to-victims-in-the-fifa-corruption-case) |
+| 43 夬 | OpenAI 董事会五日“决断”回摆（2023） | 无号终有凶：无公开说理的决断五日内被推翻 | [Good Morning America/ABC（HTTP 200）](https://www.goodmorningamerica.com/news/story/sam-altman-reaches-deal-return-ceo-openai-105091534) / [Britannica（curl 403 反爬）](https://www.britannica.com/money/Sam-Altman) |
+| 44 姤 | FDA 拦下沙利度胺上市（1960–1961） | 系于金柅＋勿用取女：审评制度第一时间制动，履霜而坚冰未成 | [The 19th（HTTP 200）](https://19thnews.org/2025/10/frances-oldham-kelsey-history-medical-drug-safety/) / [Smithsonian（HTTP 200）](https://www.smithsonianmag.com/science-nature/woman-who-stood-between-america-and-an-epidemic-of-birth-defects-180963165/)（FDA 官方历史页原链接已 404，按纪律替换） |
+| 44 姤 | 三星 Galaxy Note7 两次召回（2016） | 包有鱼/包无鱼：首遇制动迟缓致失控，两次召回补课（其行次且） | [CPSC 首召公告（2016-09-15，官方，curl 403/000 反爬或网络不稳）](https://www.cpsc.gov/Recalls/2016/Samsung-Recalls-Galaxy-Note7-Smartphones) / [CPSC 扩召公告（2016-10-13，官方，curl 403/000 反爬或网络不稳）](https://www.cpsc.gov/Recalls/2017/Samsung-Expands-Recall-of-Galaxy-Note7-Smartphones-Based-on-Additional-Incidents-with-Replacement-Phones) / [Engadget（HTTP 202，备选源）](https://www.engadget.com/2016-09-15-galaxy-note-7-government-recall.html) |
+| 07 师 | 沃尔玛卡特里娜救援动员（2005） | 师出以律＋容民畜众＋一线授权：2,450+ 车物资 | [Walmart 官方（HTTP 200）](https://corporate.walmart.com/about/samsclub/sams-club-history/timeline) / [HKS/HBR 案例（HKS150）](https://store.hbr.org/product/wal-mart-s-response-to-hurricane-katrina-striving-for-a-public-private-partnership/hks150) |
+| 11 泰 | Netflix“无平不陂”（2020–2023） | 顺境增长掩盖回程票：十年首度流失→广告层/密码整治 | [CBS News（HTTP 200）](https://www.cbsnews.com/news/netflix-losing-subscribers-stock-drop/) / [Fortune](https://www.fortune.com/2022/04/20/netflix-stock-collapse-earnings-q1-2022/) / [AP（2023 恢复）](https://apnews.com/article/netflix-results-subscriber-growth-password-sharing-457492aa1e2f436a252881ad28b3eb54) |
+| 12 否 | 苹果 1997 闭塞期守持转折（1997–1998） | 俭德辟难＋其亡其亡：砍至四条产品线→iMac 转折 | [AppleInsider](https://appleinsider.com/articles/18/07/10/gil-amelio-resigned-at-apple-ceo-21-years-ago-paving-the-way-for-steve-jobs-ascension-as-ceo) / [Fortune 2009](https://fortune.com/article/decade-steve-jobs-apple/) |
+| 15 谦 | Costco 低加价与高工资（1983 起） | 地中有山＋裒多益寡：加价上限政策、起薪 17 美元 | [Costco Connection 官方刊（HTTP 200）](https://www.costcoconnection.com/september_2025/page4.html) / [CNN（HTTP 200）](https://www.cnn.com/2021/10/27/business/costco-minimum-wage) / [Nasdaq（14%/15% 口径）](https://www.nasdaq.com/articles/how-costco-makes-money-despite-150-hot-dog-combos) |
+| 19 临 | 丰田现地现物与安灯拉绳（TPS） | 至临＋知临：一线可停线、主管到现场 | [Toyota 官方 75 年史（HTTP 200）](https://www.toyota-global.com/company/history_of_toyota/75years/text/entering_the_automotive_business/chapter1/section4/item4.html) |
 
 ## 完成度
 
-- 已配实例的新卦：23 剥（2）、24 复（2）、63 既济（2）、64 未济（2）、33 遁（2）、36 明夷（2）、40 解（2）、35 晋（1）、39 蹇（1）——完成度 9/9。
-- 已回填的旧卦：49 革、03 屯、06 讼、01 乾、02 坤、04 蒙、05 需、08 比（各 1）——完成度 8/8。
-- 其余已成文卦（07、11、12、15、19）：待后续回填（TODO：待补）。
+- 已配实例的新卦：23 剥（2）、24 复（2）、63 既济（2）、64 未济（2）、33 遁（2）、36 明夷（2）、40 解（2）、43 夬（2）、44 姤（2）、35 晋（1）、39 蹇（1）、41 损（1）、42 益（1）——完成度 13/13。
+- 已回填的旧卦：49 革、03 屯、06 讼、01 乾、02 坤、04 蒙、05 需、08 比、07 师、11 泰、12 否、15 谦、19 临（各 1）——完成度 13/13。
+- 全部 26 篇已成文卦的实例覆盖：26/26（19 临另含案例 1 起卦记录，不作检验材料）。
 
 ## 核验备注
 
 - 本批（第四期）新增 URL 已逐条 `curl -sS -o /dev/null -w "%{http_code}" -L --max-time 25` 验证：标"HTTP 200"者为 2xx/3xx 通过；标"curl 403/406 反爬"者为官方/权威源但反爬拦截（Uber Newsroom、Britannica、Khan 支持页、百度百科），均已配一个 2xx 的权威备选源同行；OHA 官网（openhandsetalliance.com）已不可达，不采用。
+- 第五期新增 URL 同样逐条 curl 验证，输出见 `.openclaw/tmp/zhouyi_phase5_url_check.txt`：标"HTTP 200"者为 2xx/3xx 通过；标"curl 403/401/406 反爬"者为官方/权威源但反爬拦截（S&P Global、MarketWatch、Britannica、CPSC、CBS、AP 等），每例均配 2xx 备选源同行；FDA 官方历史页原链接 curl 404（页面迁移），按纪律替换为 The 19th + Smithsonian（均 200）；MassLive 连接超时（000），替换为 CNN（200）；DOJ 新闻稿存档 curl 超时（沙箱出口不通，内容经检索结果确认），不作孤证、配 IRS 官方公告（200）备选；Costco 加价上限数字（14%/15%）为业界常引口径、公司官方口径为"极低加价上限政策"，正文标"待核"。
 
 - 数字口径存在来源差异处（诺基亚份额 40%–49%、Qwikster 流失订户 80 万～200 万等），正文均已标注区间，不做精算。
 - 一切实例只作"实践检验"材料：不据实例推断任何未来吉凶，不把个案当普遍规律（硬边界 1、2）。

@@ -104,13 +104,13 @@
 - 事件经过：1960 年 FDA 审评员 Frances Oldham Kelsey 受理沙利度胺（反应停）在美上市申请，因其安全性数据不足（尤其神经副作用）反复要求补充材料、拒绝批准；1961 年末该药在欧洲被证实致海豹肢畸形并全球撤市，美国因未批准而避免大规模悲剧（仅因样品分发出现少量病例）。
 - 对应结构："系于金柅"——以审评制度在第一时间制动（拦住上市）；"女壮，勿用取女"——对风头正劲、已在欧洲广泛使用的新药不轻纳；与 02 坤"履霜坚冰至"正对言：见微（数据疑点）即制（不批），霜未成冰。
 - 可核验的边界/条件：美国仍有约 17 例因医生样品分发致畸（说明"金柅"须连样品渠道一起拦）；1962 年 Kefauver-Harris 修正案将"有效性证据"立法化——防微动作制度化；本例只核验"首遇制动"结构。
-- 来源：[FDA 官方历史页（HTTP 200）](https://www.fda.gov/about-fda/fda-history-exhibits/frances-oldham-kelsey-medical-reviewer-famous-averting-public-health-tragedy) / [Smithsonian Magazine（HTTP 200，备选源）](https://www.smithsonianmag.com/science-nature/woman-who-stood-between-america-and-an-epidemic-of-birth-defects-180963165/)
+- 来源：[The 19th：Frances Oldham Kelsey's refusal to approve thalidomide changed medical history（2025-10-23，HTTP 200）](https://19thnews.org/2025/10/frances-oldham-kelsey-history-medical-drug-safety/) / [Smithsonian Magazine（HTTP 200）](https://www.smithsonianmag.com/science-nature/woman-who-stood-between-america-and-an-epidemic-of-birth-defects-180963165/)（注：FDA 官方历史页原链接现返 404、页面已迁移，按纪律替换不采用）
 
 **实例 2：三星 Galaxy Note7 电池起火的两次召回（2016）**
 - 事件经过：2016 年 8 月 Note7 上市后即现电池过热/起火；9 月 2 日三星宣布全球换货（约 250 万台），9 月 15 日美国 CPSC 正式召回约 100 万台；换新机继续起火，10 月 11 日三星停产停售，10 月 13 日 CPSC 扩大召回至约 190 万台（含前次）。
 - 对应结构："包有鱼/包无鱼"的两段对照——首遇后先以换货"包"住（9 月），但"包"的方式（继续放行换新机）未能制动问题（"包无鱼，起凶"式失控、"不利宾"——问题流向交付面直至全球登机禁令）；两次召回则是"系于金柅"的补课动作；两次换向即"其行次且"（行步艰难、进退失据）。
 - 可核验的边界/条件：起火/过热报告数各源口径不一（CPSC 美国 92 起报告 vs 三星全球 35 起首发口径，注明区间与来源差异）；三星未公布全球故障总数；缺陷定性以三星后续调查与 CPSC 召回公告为准；本例只核验"首遇制动时点与控制面"结构。
-- 来源：[CPSC 首次召回公告（2016-09-15，HTTP 200）](https://www.cpsc.gov/Recalls/2016/Samsung-Recalls-Galaxy-Note7-Smartphones) / [CPSC 扩大召回公告（2016-10-13，HTTP 200）](https://www.cpsc.gov/Recalls/2017/Samsung-Expands-Recall-of-Galaxy-Note7-Smartphones-Based-on-Additional-Incidents-with-Replacement-Phones)
+- 来源：[CPSC 首次召回公告（2016-09-15，官方，curl 403/000 反爬或网络不稳）](https://www.cpsc.gov/Recalls/2016/Samsung-Recalls-Galaxy-Note7-Smartphones) / [CPSC 扩大召回公告（2016-10-13，官方，curl 403/000 反爬或网络不稳）](https://www.cpsc.gov/Recalls/2017/Samsung-Expands-Recall-of-Galaxy-Note7-Smartphones-Based-on-Additional-Incidents-with-Replacement-Phones) / [Engadget（HTTP 202，备选源）](https://www.engadget.com/2016-09-15-galaxy-note-7-government-recall.html)
 
 ## 六、与其他卦的关联
 

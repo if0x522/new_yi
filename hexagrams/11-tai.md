@@ -106,6 +106,14 @@
   - 本卦不预测顺境何时结束："无往不复"是结构判断，不是时间表；具体转折点只能靠领先指标监测（硬边界 2）。
 - **验证方式**：上行信息闭环率、内圈标准符合度、红利制度化清单完成率、连带提拔/推进的成组落地数、中行四事季度评分、回程指标触发记录、号令失灵指数。
 
+### 现代实例
+
+**实例 1：Netflix 的"无平不陂"（2020–2023）**
+- 事件经过：2020 年疫情期间 Netflix 订阅高速增长（顺境）；2022 年 Q1 公布十年来首次季度订户净流失 20 万（其中退出俄罗斯致约 70 万流失），股价单日重挫约 37%；公司致股东信承认增长"掩盖了"饱和问题（"an issue that was obscured by our COVID growth"）；其后推出含广告低价层并推进密码共享整治，2023 年恢复增长。
+- 对应结构："无平不陂，无往不复"（顺境内置反转：增长掩盖了回程票）＋"城复于隍"预警（增长失速即启动整顿）＋"艰贞无咎"（顺境中的自持与及时修正）。
+- 边界与条件：流失数字按公司口径（净流失 20 万、俄罗斯因素约 70 万）；此例只核验"顺境反转机制"结构，不构成对公司的评价或投资建议（硬边界 1、2）。
+- 来源：[CBS News：Netflix shares slide after it loses 200,000 subscribers（2022-04-21，引股东信原文，HTTP 200）](https://www.cbsnews.com/news/netflix-losing-subscribers-stock-drop/)；[Fortune：Netflix lost 200,000 subscribers last quarter（2022-04-20）](https://www.fortune.com/2022/04/20/netflix-stock-collapse-earnings-q1-2022/)；[AP News：Netflix reports a first-quarter burst in subscriber growth（2023-04-18，反转后恢复）](https://apnews.com/article/netflix-results-subscriber-growth-password-sharing-457492aa1e2f436a252881ad28b3eb54)
+
 ## 六、与其他卦的关联
 
 - **19 临（消长主线显式衔接）**：临"刚浸而长"是阳长的过程，泰是阳长得位的**均衡高点**；临"至于八月有凶，消不久也"的预告，在泰是九三"无平不陂，无往不复"的明文——同一条消长主线的三段：**长（临）→ 平（泰）→ 复（否/剥）**。临的"反转预案"是泰"无平不陂仪表盘"的前身。

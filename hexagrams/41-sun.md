@@ -104,7 +104,7 @@
 - 事件经过：2020 年 3 月，新冠疫情冲击下万豪国际 CEO Arne Sorenson 与执行董事长 Bill Marriott Jr. 宣布 2020 年余下时间不领薪水，执行团队减薪 50%，全球"物业以上层级"员工转为缩短工时或临时休假 60–90 天；Sorenson 在给员工的视频中直接公开业绩数据与前景。
 - 对应结构："损有孚"+"其道上行"倒用——减损先从最高层承担（先上后下、以身作"损"），并以公开数据立信；高管减薪幅度（CEO 0、执行层 50%）与基层安排分开，是"酌损之"的梯度。
 - 可核验的边界/条件：减薪对象为高管基薪（不含既有股权激励；据 MarketWatch 2021 年 4 月引代理声明，Sorenson 2020 年总薪酬同比降约 33%），基层以 furlough/短工时承担，故属"承担次序"结构而非全员均摊；本例只核验成本承担次序，不评价裁员后果。
-- 来源：[S&P Global Market Intelligence（2020-03-20，HTTP 200）](https://www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/marriott-ceo-chairman-among-execs-to-forgo-some-pay-in-2020-57694779) / [Cornell News（2020-03-20，HTTP 200）](https://news.cornell.edu/media-relations/tip-sheets/marriott-ceo-salary-cut-new-best-practice-amid-coronavirus-pandemic) / [MarketWatch（2021-04-05）](https://www.marketwatch.com/story/marriott-ceos-2020-compensation-fell-by-33-as-adjusted-eps-came-in-significantly-below-targets-2021-04-05)
+- 来源：[S&P Global Market Intelligence（2020-03-20，curl 403 反爬）](https://www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/marriott-ceo-chairman-among-execs-to-forgo-some-pay-in-2020-57694779) / [Cornell News（2020-03-20，HTTP 200）](https://news.cornell.edu/media-relations/tip-sheets/marriott-ceo-salary-cut-new-best-practice-amid-coronavirus-pandemic) / [MarketWatch（2021-04-05，curl 401 反爬）](https://www.marketwatch.com/story/marriott-ceos-2020-compensation-fell-by-33-as-adjusted-eps-came-in-significantly-below-targets-2021-04-05)
 
 ## 六、与其他卦的关联
 

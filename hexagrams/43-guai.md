@@ -109,7 +109,7 @@
 - 事件经过：2015 年 5 月 27 日美国司法部公布起诉书，指控 9 名国际足联（FIFA）高官与 5 名企业高管犯敲诈勒索共谋、电信欺诈、洗钱等罪；2015 年 12 月 3 日追加起诉 16 名官员；据 DOJ/IRS 后续公告，追诉阶段共 26 名被告认罪，2017 年两名前高官经审判定罪。
 - 对应结构："扬于王庭"——罪状以公开起诉书宣布，走公开司法程序；"告自邑，不利即戎"——不以行业私刑或舆论定罪，先固证据、以法定程序清算积弊；"孚号有厉"——公开点名同时保留追诉的长期风险叙事。
 - 可核验的边界/条件：起诉不等于定罪（各被告后续处理结果不一）；"26 人认罪"为 DOJ/IRS 后续公告口径；本例只核验"公开程序化清除积弊"结构，不评价国际体育治理全局。
-- 来源：[U.S. Department of Justice 新闻稿存档（2015-05-27，HTTP 200）](https://www.justice.gov/archives/opa/pr/nine-fifa-officials-and-five-corporate-executives-indicted-racketeering-conspiracy-and) / [IRS 公告（追诉与赔偿后续，HTTP 200）](https://www.irs.gov/zh-hant/compliance/criminal-investigation/justice-department-approves-remission-of-over-32-million-in-forfeited-funds-to-victims-in-the-fifa-corruption-case)
+- 来源：[U.S. Department of Justice 新闻稿存档（2015-05-27，curl 超时：沙箱出口不通，内容经检索结果确认，不作孤证）](https://www.justice.gov/archives/opa/pr/nine-fifa-officials-and-five-corporate-executives-indicted-racketeering-conspiracy-and) / [IRS 公告（追诉与赔偿后续，官方，HTTP 200，本例备选主源）](https://www.irs.gov/zh-hant/compliance/criminal-investigation/justice-department-approves-remission-of-over-32-million-in-forfeited-funds-to-victims-in-the-fifa-corruption-case)
 
 **实例 2：OpenAI 董事会五日"决断"回摆（2023）**
 - 事件经过：2023 年 11 月 17 日 OpenAI 董事会宣布解职 CEO Sam Altman，公开声明仅称其"与董事会沟通不一贯坦诚"，未给出公开的程序说明；数日内 700 余名员工联名要求董事会辞职、临时 CEO 两度更替，11 月 21 日达成原则协议 Altman 回归、董事会重组。
