@@ -103,13 +103,13 @@
 - 事件经过：长期资本管理公司（LTCM）1994 年成立，合伙人含诺贝尔经济学奖得主与明星交易员，以"市场中性套利"为核心策略、杠杆极高（常引 25:1 以上，后期口径更高）；1998 年 8 月俄罗斯债务违约后市场利差急剧放大，基金在不到四个月里亏损约 **46 亿美元**（约当其净值的九成，口径不一）；1998-09-23，纽约联储召集 **14 家** 银行与券商注资 **36.5 亿美元** 避免无序清盘（动用的是私营机构资金、非公帑），基金 2000 年初清算解散。
 - 对应结构："**小人用壮，君子用罔**"（以模型与杠杆当蛮力，资本约束与风险规则被"必胜确信"顶掉）＋"**羝羊触藩，羸其角**"（头寸大到无法退出，卡死在市场刚性约束上）＋"**其孚穷也**"（蛮勇的确信走投无路）；事后的银行团注资＋联储协调是**迟到的"用罔"**（以规则程序接住蛮力残局），对照九四"藩决不羸"所缺的正是"舆之輹"（底座资本）。
 - 可核验的边界/条件：亏损额（约 46 亿美元）与杠杆倍数（25:1 以上、后期更高）为常引口径，各来源统计有出入，正文标"量级/口径不一"；救助为私营机构注资（联邦储备史页明确"无公共资金"）；本例只核验"用壮—触藩—用罔补位"结构，不构成对相关机构或个人的评价（硬边界 1、2）。
-- 来源：[Federal Reserve History（美联储官方史）：Near Failure of Long-Term Capital Management（HTTP 200）](https://www.federalreservehistory.org/essays/ltcm-near-failure) / [Investopedia：LTCM Collapse（HTTP 200）](https://www.investopedia.com/terms/l/longtermcapital.asp) / [HandWiki：Long-Term Capital Management（HTTP 200）](https://handwiki.org/wiki/Company:Long-Term%20Capital%20Management)
+- 来源：[Federal Reserve History（美联储官方史）：Near Failure of Long-Term Capital Management（HTTP 200）](https://www.federalreservehistory.org/essays/ltcm-near-failure) / [Investopedia：LTCM Collapse（curl 403 反爬，权威备查）](https://www.investopedia.com/terms/l/longtermcapital.asp) / [HandWiki：Long-Term Capital Management（HTTP 200）](https://handwiki.org/wiki/Company:Long-Term%20Capital%20Management)
 
 **实例 2：丰田 2009–2010 踏板召回风暴——"壮于趾""不能退不能遂"与"艰则吉"（2009–2011）**
 - 事件经过：丰田在 2000 年代高速扩张、登顶全球销量规模；2008 年 8 月圣地亚哥雷克萨斯 ES350 死亡事故使"意外加速"进入公众视野；2009 年 11 月因脚垫卡滞召回约 **380 万辆**，2010 年 1 月再因油门踏板粘滞召回数百万辆；2010 年 2 月美国国会听证，社长丰田章男到场作证致歉；NHTSA 以"迟报缺陷"累计处以近 **3,300 万美元** 民事罚款；应国会要求，NHTSA 联合 NASA 做十个月研究，2011 年结论为**未发现电子油门系统缺陷**（主因指向脚垫、踏板机构与驾驶误踩）。
 - 对应结构："**壮于趾，征凶**"（扩张速度顶在最前端、质量信号后置）＋"**小人用壮**"（规模与增速压过质量规则的用力方式）＋"**羝羊触藩，不能退，不能遂**"（召回僵局：不能退出美国市场、也不能照旧推进）＋"**艰则吉，咎不长也**"（国会作证、全面召回、接受独立调查——以"艰"自处后过失期收束）；对照"君子用罔"的补课（迟报罚则、质量特别委员会等规则化整改）。
 - 可核验的边界/条件：召回数量（380 万＋数百万）与罚款（近 3,300 万美元）为 DOT/NHTSA 公开口径；"电子缺陷"最终未被 NASA-NHTSA 研究证实，本例**不得**读作"电子缺陷实锤"；本例只核验"扩张之壮—质量反噬—艰处收束"结构，不构成对该企业的评价（硬边界 1、2）。
-- 来源：[美国交通部官方（DOT）：NHTSA-NASA 未预期加速研究结果（HTTP 200）](https://www.transportation.gov/briefing-room/us-department-transportation-releases-results-nhtsa-nasa-study-unintended-acceleration) / [The Auto Wire：丰田未预期加速事件回顾（HTTP 200）](https://theautowire.com/2025/01/04/toyotas-unintended-acceleration-scandal/) / [Britannica：Toyota（curl 403 反爬，权威备查）](https://www.britannica.com/topic/Toyota-Motor-Corporation)
+- 来源：[美国交通部官方（DOT）：NHTSA-NASA 未预期加速研究结果（curl 403 反爬，官方一手源）](https://www.transportation.gov/briefing-room/us-department-transportation-releases-results-nhtsa-nasa-study-unintended-acceleration) / [Center for Auto Safety 全文转载 DOT 公报 DOT 16-11（HTTP 200，备选主源）](https://www.autosafety.org/us-department-transportation-releases-results-nhtsa-nasa-study-unintended-acceleration-toyota-vehicl/) / [The Auto Wire：丰田未预期加速事件回顾（HTTP 200）](https://theautowire.com/2025/01/04/toyotas-unintended-acceleration-scandal/) / [Britannica：Toyota（curl 403 反爬，权威备查）](https://www.britannica.com/topic/Toyota-Motor-Corporation)
 
 ## 六、与其他卦的关联
 

@@ -108,13 +108,13 @@
 - 事件经过：2017 年起苹果及其代工厂与高通在全球多法域互诉（苹果拒付专利费并指控高通垄断许可模式，高通反诉并寻求禁售令），公开叙事战与法律战同步升级；2019-04-16 双方宣布**撤销全球所有诉讼**（含对苹果代工厂的诉讼），达成**全球专利许可协议（六年，自 2019-04-01 生效，含两年续约选择）**与多年芯片组供应协议，苹果向高通支付一笔未披露款项。
 - 对应结构："**先张之弧，后说之弧……匪寇婚媾**"（互诉禁售＝张弧，撤诉＋许可＋芯片长约＝脱弧，对手实为供应链伙伴）＋"**见恶人，无咎**"（诉讼期间保持谈判与供应接触，断而不绝）＋"**小事吉**"（僵局中先就芯片供应等具体事务成交，大和解从小协议长出）；对照"载鬼一车"（公开互指"垄断/欺压"的动机论叙事战）。
 - 可核验的边界/条件：和解金额未公开；六年许可＋两年续约选择＋多年芯片供应为双方官方新闻稿口径（经 SEC 备案披露）；本例只核验"疑忌—张弧—脱弧—婚媾"结构，不构成对专利制度或任一方的评价（硬边界 1、2）。
-- 来源：[Apple 官方新闻稿：Qualcomm and Apple Agree to Drop All Litigation（HTTP 200）](https://images.apple.com/hk/newsroom/2019/04/qualcomm-and-apple-agree-to-drop-all-litigation/) / [SEC EDGAR（高通备案 Exhibit 99.1，官方）](https://www.sec.gov/Archives/edgar/data/804328/000172894919000026/qcom041619exhibit991.htm) / [新华网英文（HTTP 200）](http://www.xinhuanet.com/english/2019-04/17/c_137984559.htm)
+- 来源：[Apple 官方新闻稿：Qualcomm and Apple Agree to Drop All Litigation（HTTP 200）](https://images.apple.com/hk/newsroom/2019/04/qualcomm-and-apple-agree-to-drop-all-litigation/) / [SEC EDGAR（高通备案 Exhibit 99.1，官方，curl 403 反爬）](https://www.sec.gov/Archives/edgar/data/804328/000172894919000026/qcom041619exhibit991.htm) / [新华网英文（HTTP 200）](http://www.xinhuanet.com/english/2019-04/17/c_137984559.htm)
 
 **实例 2：1971 年"乒乓外交"——"遇主于巷"与"小事吉"的破冰样本（1971-04）**
 - 事件经过：1971 年 4 月日本名古屋第 31 届世乒赛期间，美国球员格伦·科恩误上中国队大巴，与庄则栋互赠礼物，成为公开信号；数日后中方邀请美国乒乓球队访华；1971-04-10 美国队经罗湖桥进入中国，是 1949 年后**首批正式访华的美国人**；这场体育交流为 1972 年尼克松访华与中美关系正常化铺路（美国务院外交博物馆将其定性为更大范围缓和的"公开面孔"）。
 - 对应结构："**遇主于巷，无咎**"（外交僵局中的相遇发生在大巴车/赛场——非正式通道不失道）＋"**小事吉**"（体育交流这一"小事"先行，为大和解探路）＋"**往遇雨则吉，群疑亡也**"（二十余年疑忌经由小接触逐渐消散）；对照"丧马勿逐自复"（双方对误上大巴这类"小离散"式意外未做追打式解读）。
 - 可核验的边界/条件：时间线（4 月初相遇、4 月 10 日入境、1972 年访华铺路）为美国务院外交博物馆与中美双方公开记录一致口径；本例只核验"睽时小事破冰—非正式通道"结构，不构成对任何国家政策的评价（硬边界 1、2）。
-- 来源：[美国国家外交博物馆（官方）：Ping-Pong Diplomacy artifacts（HTTP 200）](https://diplomacy.state.gov/ping-pong-diplomacy-historic-1971-u-s-table-tennis-trip-to-china/) / [上海市人民政府英文站：Ping-Pong Diplomacy at 55（HTTP 200）](https://english.shanghai.gov.cn/en-PingPongDiplomacy55/20260414/01031c8036f5423baa09011f978736ee.html) / [中国日报英语点津：Do you know "Ping-Pong diplomacy"?（HTTP 200）](http://language.chinadaily.com.cn/2007-03/16/content_829727.htm)
+- 来源：[美国国家外交博物馆（官方）：Ping-Pong Diplomacy artifacts（HTTP 200）](https://diplomacy.state.gov/ping-pong-diplomacy-historic-1971-u-s-table-tennis-trip-to-china/) / [美国国家外交博物馆（官方）：1971 年球拍文物（HTTP 200）](https://diplomacy.state.gov/items/ping-pong-paddle/) / [上海市人民政府英文站：Ping-Pong Diplomacy at 55（HTTP 200）](https://english.shanghai.gov.cn/en-PingPongDiplomacy55/20260414/01031c8036f5423baa09011f978736ee.html)
 
 ## 六、与其他卦的关联
 

@@ -109,7 +109,7 @@
 - 事件经过：安然公司 2000 年年报宣称的价值观为 Communication、Respect、Integrity、Excellence（后被广泛引为价值观宣言的反面教材）；2001 年 12 月 2 日安然申请破产保护（当时美国最大破产案，申报资产逾 600 亿美元）；董事会特别调查委员会（Powers 报告，2002-02）揭示高管以关联合伙隐藏债务、自肥奖金；FBI 备案史记载共 22 人因相关欺诈被定罪（含 CEO）。
 - 对应结构："**不恒其德，或承之羞**"（宣言之德与行为之实不一贯，羞辱与崩塌随之）＋"**贞吝**"还原（纵有体面文本，德不恒则无所容）＋与 31 咸"辅颊舌"呼应（止于言辞的承诺最浅）；对照李锦记实例（37 家人）：同样有文本，**文本与执行同恒**才成资产。
 - 可核验的边界/条件：破产日期与资产规模为公开档案口径（"逾 600 亿美元"为申报口径，各方统计略有出入）；Powers 报告为董事会特委会产物、22 人定罪为 FBI 备案口径；价值观四词出自 2000 年年报（经 HBR 2002 年文章广泛引述）；本例只核验"德不恒—羞—崩"结构，不构成对任何在世者个人的评价（硬边界 1、2）。
-- 来源：[FBI Famous Cases：Enron（官方，HTTP 200）](https://www.fbi.gov/history/famous-cases/enron) / [Levin Center（美国会监督研究中心）：Congress and the Enron Scandal（HTTP 200）](https://levin-center.org/what-is-oversight/portraits/congress-and-the-enron-scandal/) / [HBR Store：Make Your Values Mean Something（2002，引安然 2000 年报价值观）](https://store.hbr.org/product/make-your-values-mean-something/R0207J)
+- 来源：[FBI Famous Cases：Enron（官方，curl 403 反爬，官方一手源）](https://www.fbi.gov/history/famous-cases/enron) / [Levin Center（美国会监督研究中心）：Congress and the Enron Scandal（curl 403 反爬）](https://levin-center.org/what-is-oversight/portraits/congress-and-the-enron-scandal/) / [HBR Store：Make Your Values Mean Something（2002，引安然 2000 年报价值观，HTTP 200）](https://store.hbr.org/product/make-your-values-mean-something/R0207J)
 
 ## 六、与其他卦的关联
 
