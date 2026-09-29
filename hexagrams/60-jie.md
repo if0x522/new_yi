@@ -110,7 +110,7 @@
 - 事件经过：2010 年欧债危机后希腊实施快速、大幅的财政紧缩（削减支出、增税），结果深度衰退、失业高企、赤字目标反复落空；国际货币基金组织 2013 年 1 月发布 Blanchard–Leigh 工作论文（WP/13/1）承认：**财政乘数被系统性低估**（原估 0.5 上下，危机深重期"实际乘数显著大于 1"），紧缩的经济代价远超预估（约达预估的三倍，IMF 时任首席经济学家并公开表示欧洲削减预算速度过快）。
 - 对应结构："苦节不可贞，其道穷也"——过快过猛的节制虽出于"正"（偿债纪律），但强度不可持续、自我挫败（衰退又放大赤字），走到"其道穷"；对照"说以行险"缺位——紧缩缺乏社会甘愿与缓冲，代价集中于最弱环节（"害民"红线的反面教材）；"不节若，则嗟若"的镜像——此处是"过节若，则穷若"：失度的两个方向（不节/苦节）都付出嗟叹。
 - 可核验的边界/条件：乘数低估与"代价约三倍"以 IMF 工作论文与公开报道为准（IMF WP/13/1 提出"multipliers were substantially above 1"；"三倍"为 IMF 承认的口径）；希腊 GDP 与失业具体数字口径不一，正文不引；本例只核验"过苦之节不可持久"的结构，不构成对希腊或欧盟政策的评价（硬边界 1、2）。
-- 来源：[IMF Working Paper WP/13/1：Growth Forecast Errors and Fiscal Multipliers（Blanchard & Leigh，官方 PDF）](https://www.imf.org/-/media/websites/imf/imported-full-text-pdf/external/pubs/ft/wp/2013/_wp1301.pdf) / [北京国家会计学院（转载 IMF 2013-01 报道）：削减政府预算对经济增长的破坏作用或在减退](http://iefi.mof.gov.cn/pdlb/dbjgzz/201301/t20130105_724873.html)
+- 来源：[IMF Working Paper WP/13/1：Growth Forecast Errors and Fiscal Multipliers（Blanchard & Leigh，官方 PDF；curl 403 反爬）](https://www.imf.org/-/media/websites/imf/imported-full-text-pdf/external/pubs/ft/wp/2013/_wp1301.pdf) / [北京国家会计学院（转载 IMF 2013-01 报道，HTTP 200，备选主源）：削减政府预算对经济增长的破坏作用或在减退](http://iefi.mof.gov.cn/pdlb/dbjgzz/201301/t20130105_724873.html)
 
 ## 六、与其他卦的关联
 

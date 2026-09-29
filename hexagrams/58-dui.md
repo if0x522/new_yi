@@ -107,7 +107,7 @@
 - 事件经过：德国支付公司 Wirecard 曾被视为金融科技明星、DAX 指数成分股；多年来审计方 EY 连续出具无保留意见、金融监管局（BaFin）对质疑者（媒体、做空者）反而采取行动，上下内外被"悦"的叙事包裹；2020 年 6 月公司承认资产负债表上约 19 亿欧元现金"可能从来不存在"，EY 称其为"精心设计的欺诈"，公司随即崩塌，德国财长承认监管"无效"。
 - 对应结构："孚于剥，有厉"——监管与审计把信任交给正在剥蚀自己的对象（位正当也的反面教材：位置越正越防"悦"蔽）；"引兑，未光也"——明星叙事与取悦式沟通维持的悦不光明、不可持续；对照"孚兑/商兑"的缺位：真实质疑（媒体、做空者的"商兑"）曾被压制，"介疾"未除，终成膏肓。
 - 可核验的边界/条件：19 亿欧元现金不存在、EY"elaborate and sophisticated fraud"定性、BaFin 监管失灵等以学术案例研究与路透社报道转引为准；本例只核验"悦蔽—信于剥蚀者—崩塌"的结构，不构成对涉事个人司法责任的评价（硬边界 1、2）。
-- 来源：[SCIRP 学术案例：Economic Regulation and Corporate Governance: The Case of Wirecard（2021）](https://www.scirp.org/journal/paperinformation?paperid=112250) / [Applied Corporate Governance：Wirecard: a €20bn failure of governance（含 KPMG 复查与治理失败梳理）](https://www.applied-corporate-governance.com/editors-picks/wirecard-case-study/)
+- 来源：[Applied Corporate Governance：Wirecard: a €20bn failure of governance（HTTP 200，备选主源，含 KPMG 复查与治理失败梳理）](https://www.applied-corporate-governance.com/editors-picks/wirecard-case-study/) / [德国联邦议院调查委员会官方记录（bundestag.de，HTTP 200）：Wirecard 调查委员会会议记录（2021-03-26）](https://www.bundestag.de/dokumente/textarchiv/2021/kw12-pa-3-ua-fr-828432) / [SCIRP 学术案例：Economic Regulation and Corporate Governance: The Case of Wirecard（2021；curl 000 连接超时、网络不通，不作孤证）](https://www.scirp.org/journal/paperinformation?paperid=112250)
 
 ## 六、与其他卦的关联
 

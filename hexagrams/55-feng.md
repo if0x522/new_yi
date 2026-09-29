@@ -104,7 +104,7 @@
 - 事件经过：737 MAX 在声势最盛的订单潮中，其机动特性增强系统（MCAS）的真实工作范围被隐瞒——美国司法部 2021 年 1 月的暂缓起诉协议（DPA）载明，波音员工"选择了利润而放弃了坦诚"（chose the path of profit over candor），**故意向 FAA 隐瞒**MCAS 扩大后的操作范围信息；2018 年 10 月狮航 610、2019 年 3 月埃塞俄比亚航空 302 两起空难共 346 人遇难，全球停飞；波音支付逾 25 亿美元和解（2024 年又因违反 DPA 达成认罪协议，见新华社英文报道）。
 - 对应结构："丰其蔀，日中见斗"——订单与声势盛大之际，关键信息被层层遮蔽，连监管者与一线飞行员都"看不清"（正午见斗）；"丰其屋，蔀其家"——对 FAA 的隐瞒是"自藏也"式内外隔绝；"折其右肱"——两起空难折损的正是最不可折的东西：安全信誉与整条机型的可用性，此后只能"守"（停飞、赔偿、整改），"终不可用也"。
 - 可核验的边界/条件：事件与措辞以美国司法部 2021-01-07 新闻稿与 2024 年认罪协议报道为准（346 人遇难、逾 25 亿美元）；本例只核验"盛大→蔽障→折损→只守"的结构链，不构成对航空安全监管体系的整体评价（硬边界 1、2）。
-- 来源：[美国司法部存档新闻稿：Boeing Charged with 737 Max Fraud Conspiracy and Agrees to Pay over $2.5 Billion（2021-01-07）](https://www.justice.gov/archives/opa/pr/boeing-charged-737-max-fraud-conspiracy-and-agrees-pay-over-25-billion) / [新华社英文：Boeing, U.S. DOJ reach deal over 737 Max crashes（2025-05-24）](https://english.news.cn/northamerica/20250524/ddfc909057e941229569bde846a11c05/c.html)
+- 来源：[美国司法部存档新闻稿：Boeing Charged with 737 Max Fraud Conspiracy and Agrees to Pay over $2.5 Billion（2021-01-07；curl 000：沙箱出口不通，内容经检索结果确认，不作孤证）](https://www.justice.gov/archives/opa/pr/boeing-charged-737-max-fraud-conspiracy-and-agrees-pay-over-25-billion) / [新华社英文（HTTP 200，备选主源，含 25.1 亿美元拆分与 2021 年 DPA 要点）：Boeing, U.S. DOJ reach deal over 737 Max crashes（2025-05-24）](https://english.news.cn/northamerica/20250524/ddfc909057e941229569bde846a11c05/c.html)
 
 **实例 2：Theranos——"丰其屋，蔀其家，窥其户，阒其无人"（2003–2018）**
 - 事件经过：Theranos 以"几滴血做数百项检测"的叙事登顶——2014 年估值约 90 亿美元、创始人被广为追捧；但公司对内对外层层遮蔽：核心检测设备（Edison）数据被篡改、多项检测实际在别家公司的机器上完成；2015 年起低层员工 Erika Cheung、Tyler Shultz 发现数据造假却遭压制，外部核查与质疑被拒之门外；2018 年 3 月美国证监会（SEC）以"巨额欺诈"（massive fraud）起诉，创始人让出投票权、罚款并十年禁任上市公司高管。
