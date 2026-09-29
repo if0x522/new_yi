@@ -113,7 +113,7 @@
 - 事件经过：1999 年 9 月 23 日，NASA 的火星气候轨道器在入轨机动时失踪；事故调查委员会（1999 年 11 月 Phase I 报告）确认根因：洛克希德·马丁的地面软件以磅力（pound-force）输出推进器数据，NASA 导航团队按牛顿（newton）读取，单位不一致使轨道逐步偏差，探测器坠入火星大气损毁（任务造价约 3.276 亿美元）。
 - 对应结构："慎辨物居方"的反例——"物"（单位/量纲）不辨、"方"（接口责任位）不清，误差沿链条累积到不可逆；"不知极"（对自身数据的性质失察）正是濡尾之因。
 - 边界与条件：根因是**接口规范与验证缺失**（NASA 事故报告原文可查），非单人失误；实例用于检验"辨物"纪律，不构成对相关机构的整体评价。
-- 来源：[Watts & Wild：Mars Climate Orbiter: lost to a units mix-up](https://wattsandwild.com/articles/mars-climate-orbiter-units-error)；[DEV：The Unit That Crossed a Boundary（引 NASA 事故调查委员会 Phase I 报告）](https://dev.to/vivian-voss/the-unit-that-crossed-a-boundary-mars-climate-orbiter-1999-14l6)
+- 来源：[NASA Science：Mars Climate Orbiter 任务页（官方）](https://science.nasa.gov/mission/mars-climate-orbiter/)；[DEV：The Unit That Crossed a Boundary（引 NASA 事故调查委员会 Phase I 报告）](https://dev.to/vivian-voss/the-unit-that-crossed-a-boundary-mars-climate-orbiter-1999-14l6)
 
 ## 六、与其他卦的关联
 
