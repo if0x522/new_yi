@@ -9,7 +9,7 @@
 | 23 剥 | 柯达侵蚀失察（1990s–2012） | 胶卷盘子被数码持续侵蚀而收缩迟缓，2012 年 1 月申请破产保护 | [TMS](https://tms-outsource.com/blog/posts/what-happened-to-kodak/) / [HBR·HBS 案例](https://store.hbr.org/product/competency-destroying-technology-transitions-why-the-transition-to-digital-is-particularly-challenging/613024) |
 | 23 剥 | IBM 售 PC 事业部予联想（2004–2005） | 17.5 亿美元退出被侵蚀的低毛利战线、保留核心"种子" | [Lenovo Newsroom](https://news.lenovo.com/pressroom/press-releases/lenovo-completes-acquisition-ibms-personal-computing-division/) / [HBR](https://store.hbr.org/product/lenovo-building-a-global-brand/507014) |
 | 24 复 | Netflix Qwikster 拆分回撤（2011） | 23 天内撤销拆分决定，"不远复"式早纠错 | [EPR](https://everything-pr.com/netflix-qwickster) / [Sage](https://sk.sagepub.com/cases/netflix-qwikster-would-success-in-dvds-lead-to-success-in-streaming) |
-| 24 复 | 任天堂 Wii U→Switch 回归（2012–2017） | 失利后回归核心构想，2017 年 Switch 成功 | [MakeUseOf](https://www.makeuseof.com/why-wii-u-failed-how-nintendo-bounced-back/) / [TOY PEOPLE](https://www.toy-people.com/?p=100517) |
+| 24 复 | 任天堂 Wii U→Switch 回归（2012–2017） | 失利后回归核心构想，2017 年 Switch 成功 | [Nintendo IR（官方，HTTP 200）](https://www.nintendo.co.jp/ir/en/finance/hard_soft/) / [MakeUseOf（curl 反爬，非孤证）](https://www.makeuseof.com/why-wii-u-failed-how-nintendo-bounced-back/) |
 | 63 既济 | 女川核电站的预置（设计—2011） | 按预想最大海啸抬高防波堤，3·11 中距震中更近而存续 | [GEPR](https://www.gepr.org/en/contents/20121217-03/) / [IAEA](https://www.iaea.org/sites/default/files/publications/reports/2011/fukushima.pdf) |
 | 63 既济 | 诺基亚手机"初吉终乱"（2007–2013） | 巅峰守成失当，2013 年手机业务售予微软 | [TechGolly](https://techgolly.com/nokias-decline-in-the-smartphone-market) / [Gizmochina](https://www.gizmochina.com/2025/02/21/how-android-killed-nokia/) |
 | 64 未济 | Healthcare.gov 上线"汔济"（2013） | 上线即瘫痪、"tech surge"救援，将成未成之际翻车 | [Ballotpedia](https://ballotpedia.org/wiki/index.php?curid=410343&title=Healthcare.gov_website_rollout) / [FCW](https://fcw.com/workforce/2014/03/healthcaregov-gears-up-for-last-minute-surge/255013/) |
@@ -50,7 +50,7 @@
 
 ## 核验备注
 
-- 本批（第四期）新增 URL 已逐条 `curl -sS -o /dev/null -w "%{http_code}" -L --max-time 25` 验证：标"HTTP 200"者为 2xx/3xx 通过；标"curl 403/406 反爬"者为官方/权威源但反爬拦截（Uber Newsroom、Britannica、Khan 支持页、百度百科），均已配一个 2xx 的权威备选源同行；OHA 官网（openhandsetalliance.com）已不可达，不采用。
+- 各批新增 URL 均已逐条 `curl -sS -o /dev/null -w "%{http_code}" -L --max-time 25` 验证（第四、五期为主）：标"HTTP 200"者为 2xx/3xx 通过；标"curl 403/406 反爬"者为官方/权威源但反爬拦截（Uber Newsroom、Britannica、Khan 支持页、百度百科），均已配一个 2xx 的权威备选源同行；OHA 官网（openhandsetalliance.com）已不可达，不采用。
 - 第五期新增 URL 同样逐条 curl 验证，输出见 `.openclaw/tmp/zhouyi_phase5_url_check.txt`：标"HTTP 200"者为 2xx/3xx 通过；标"curl 403/401/406 反爬"者为官方/权威源但反爬拦截（S&P Global、MarketWatch、Britannica、CPSC、CBS、AP 等），每例均配 2xx 备选源同行；FDA 官方历史页原链接 curl 404（页面迁移），按纪律替换为 The 19th + Smithsonian（均 200）；MassLive 连接超时（000），替换为 CNN（200）；DOJ 新闻稿存档 curl 超时（沙箱出口不通，内容经检索结果确认），不作孤证、配 IRS 官方公告（200）备选；Costco 加价上限数字（14%/15%）为业界常引口径、公司官方口径为"极低加价上限政策"，正文标"待核"。
 
 - 数字口径存在来源差异处（诺基亚份额 40%–49%、Qwikster 流失订户 80 万～200 万等），正文均已标注区间，不做精算。
