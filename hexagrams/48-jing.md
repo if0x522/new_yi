@@ -109,7 +109,7 @@
 - 事件经过：2014 年 4 月，密歇根州弗林特市在州任命的财政紧急管理人主导下，把饮用水源从休伦湖（底特律水务供）切换为弗林特河；切换后未按美国环保署《铅与铜规则》要求添加防腐蚀药剂，水中铅含量升至 EPA 行动水平以上，儿童血铅升高比例近乎翻倍；居民长期投诉无果，最终由 EPA 第五区检查员与弗吉尼亚理工大学专家及其学生实测揭露，CDC 记载十八个月后恢复原水源并开展暴露登记与健康追踪。
 - 对应结构："井泥不食"（水源被污染、供给不可饮）＋"井甃"缺位（防腐蚀维护被省掉，"修井"环节系统性缺席）＋"井渫不食……王明"（供给早已可用、居民呼声长期无人识别启用，直到外部专家与监管者这层"明"介入，才"并受其福"）。
 - 可核验的边界/条件：时间线（2014-04 切换、约十八个月后回切）与健康口径以 CDC/同行评议文献为准；此例只核验"维护欠账—供给报废—识别缺位"结构，不做责任裁定（硬边界 1、2）。
-- 来源：[CDC 官方：Flint, Michigan（Childhood Lead Poisoning Prevention，HTTP 200）](https://www.cdc.gov/lead-prevention/success-stories-by-state/flint-michigan.html) / [PMC 同行评议文献：A Case Study of Environmental Injustice: The Failure in Flint（2016，HTTP 200）](https://pmc.ncbi.nlm.nih.gov/articles/PMC5086690/)
+- 来源：[CDC 官方：Flint, Michigan（Childhood Lead Poisoning Prevention，curl 403 反爬，配 PMC 200 同行）](https://www.cdc.gov/lead-prevention/success-stories-by-state/flint-michigan.html) / [PMC 同行评议文献：A Case Study of Environmental Injustice: The Failure in Flint（2016，HTTP 200）](https://pmc.ncbi.nlm.nih.gov/articles/PMC5086690/)
 
 **实例 2：CERN 把万维网放进公共领域——"改邑不改井"与"井收勿幕"（1993）**
 - 事件经过：1993 年 4 月 30 日，CERN 发布公开声明，把万维网的三个组成部分（基础行模式客户端、基础服务器、公共代码库）放入公共领域、任何人可免费使用；此后 CERN 又以开放许可方式发布，确保传播最大化（CERN 官方"Licensing the Web"与 CERN 时间线页记载；万维网的底层标准——URL、HTTP、HTML——自此成为不随"城邑"兴废而改的公共底座）。

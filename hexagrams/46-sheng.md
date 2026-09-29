@@ -103,13 +103,13 @@
 - 事件经过：1987 年张忠谋创立台积电，开创纯晶圆代工（pure-play foundry）模式——只制造客户设计的芯片、不与客户竞争设计；据 Britannica 记载，至 2005 年公司达成目标、占晶圆代工市场约一半；据台积电官方口径，其 1987 年开创的纯代工模式至今支撑 500 余家客户、上万种产品，并率先量产 7nm、5nm 等先进工艺。
 - 对应结构："升虚邑"（进入当时无人占据的纯代工空白地带，"无所疑也"）＋"积小以高大"（以制程良率的逐代积累为台阶）＋"贞吉升阶"（一代工艺踩实再进下一代，不跳级）。
 - 可核验的边界/条件：市占口径（2005 年约半数代工市场）为 Britannica 记载，代工市场统计口径各家不一，标常引口径；本例只核验"空白选场＋台阶积累"结构，不构成投资建议或企业评价（硬边界 1、2）。
-- 来源：[TSMC 官方（About TSMC / TSMC Arizona，HTTP 200）](https://www.tsmc.com/static/abouttsmcaz/index.htm) / [Encyclopaedia Britannica：Taiwan Semiconductor Manufacturing Co.（curl 403 反爬）](https://www.britannica.com/money/Taiwan-Semiconductor-Manufacturing-Co)
+- 来源：[TSMC 官方（About TSMC / TSMC Arizona，curl 403 反爬）](https://www.tsmc.com/static/abouttsmcaz/index.htm) / [Encyclopaedia Britannica：Taiwan Semiconductor Manufacturing Co.（curl 403 反爬）](https://www.britannica.com/money/Taiwan-Semiconductor-Manufacturing-Co) / [百度百科英文版：Morris Chang（HTTP 200，本例 2xx 备选主源：成立 1987、世界首家专业晶圆代工）](https://baike.baidu.com/en/item/Morris%20Chang/1449799)
 
 **实例 2：WeWork 2019 年 IPO 叫停——"冥升"的现代样本**
 - 事件经过：2019 年 8 月 14 日 WeWork 提交 IPO 招股书，其年初私募估值约 470 亿美元；投资者对亏损扩大、估值过高与公司治理提出质疑，估值预期大幅下调（据 CGTN 2019-09-18 报道，公司考虑将估值降至约 200 亿美元区间），9 月 17 日宣布推迟上市，此后撤回 IPO、创始人辞任 CEO，软银提出约 95 亿美元救援方案（多来源报道；2023 年 WeWork 申请破产保护）。
 - 对应结构："冥升，消不富也"——估值与扩张叙事升在经营与治理（"贞"）前面，昏暗处仍不停，上升本身成为风险；对照"贞吉升阶"：没有踩实证据的台阶（盈利模式、治理），升得越高越无缓冲。
-- 可核验的边界/条件：估值口径不一（470 亿美元为 2019 年初私募轮口径；IPO 目标估值下调幅度各源 100–300 亿美元区间），本例标区间、不精算；只核验"升过头不停则倾"的结构，不构成对企业或个人的评价（硬边界 1、2）。
-- 来源：[CGTN：Tracking the twists and turns of WeWork's IPO（2019-09-18，HTTP 200）](https://news.cgtn.com/news/2019-09-18/Tracking-the-twists-and-turns-of-WeWork-s-IPO--K50I1qra1O/index.html) / [福布斯中国：从估值 470 亿美元到申请破产：WeWork 的起落回顾（2023-11-08，HTTP 200）](https://www.forbeschina.com/technology/66109)
+- 可核验的边界/条件：估值口径不一（470 亿美元为 2019 年初私募轮口径，一说 490 亿美元；IPO 目标估值下调幅度各源 100–300 亿美元区间），本例标区间、不精算；只核验"升过头不停则倾"的结构，不构成对企业或个人的评价（硬边界 1、2）。
+- 来源：[CGTN：Tracking the twists and turns of WeWork's IPO（2019-09-18，HTTP 200）](https://news.cgtn.com/news/2019-09-18/Tracking-the-twists-and-turns-of-WeWork-s-IPO--K50I1qra1O/index.html) / [福布斯中国：从估值 470 亿美元到申请破产：WeWork 的起落回顾（2023-11-08，curl 000 沙箱证书链问题，站点实际可达）](https://www.forbeschina.com/technology/66109) / [36 氪：百亿美元估值清零，WeWork 是如何走上破产之路的？（2023-11-10，HTTP 200，本例 2xx 备选主源）](https://36kr.com/p/2511067574829061)
 
 ## 六、与其他卦的关联
 

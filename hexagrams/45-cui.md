@@ -106,7 +106,7 @@
 - 事件经过：2000 年 1 月 AOL 宣布以约 1,640 亿美元与时代华纳合并，缔造当时史上最大并购；两家公司在战略、文化与执行方式上差异极大（HBS 案例即以"文化冲突"为主线），合并后公司 2002 年报告约 990 亿美元巨额亏损（常引口径，二次来源），2009 年时代华纳将 AOL 分拆为独立公司，等于把"聚"倒了回去（分拆于 2009 年 11 月签约、12 月完成，经 SEC 备案新闻稿确认）。
 - 对应结构："有孚不终，乃乱乃萃"＋"萃有位，匪孚"——股权与名义上的聚合（萃有位）完成了，但两套文化的信任与共同中心（王假有庙）始终没有立起来，"其志乱也"，聚而复散。
 - 可核验的边界/条件：本例只核验"聚人≠聚心"的结构，不对其商业前景做评价；亏损数字为常引口径（约 990 亿美元，2002 年，二次来源），精确口径待核；分拆时点以 SEC 备案新闻稿为准。
-- 来源：[Harvard Business School 案例《AOL Time Warner, Inc.》（HBR Store，2002，HTTP 200）](https://store.hbr.org/product/aol-time-warner-inc/702421) / [Time Warner 关于完成 AOL 分拆的新闻稿（SEC EDGAR 存档，2009-12，HTTP 200）](https://www.sec.gov/Archives/edgar/data/1105705/000095015709000979/ex99-1.htm)
+- 来源：[Harvard Business School 案例《AOL Time Warner, Inc.》（HBR Store，2002，HTTP 200）](https://store.hbr.org/product/aol-time-warner-inc/702421) / [Time Warner 关于完成 AOL 分拆的新闻稿（SEC EDGAR 存档，2009-12，curl 403 反爬，配 HBR 200 同行）](https://www.sec.gov/Archives/edgar/data/1105705/000095015709000979/ex99-1.htm)
 
 **实例 2：迪士尼收购皮克斯——保留"庙"的聚合（2006）**
 - 事件经过：2006 年 5 月 5 日迪士尼宣布完成对皮克斯的全股票收购（每股皮克斯换 2.3 股迪士尼股票）；Ed Catmull 出任皮克斯与迪士尼两家动画工作室的总裁、John Lasseter 任首席创意官，皮克斯保留其独立的文化与创作方式，两家工作室各自独立运作（迪士尼官方新闻稿、皮克斯官方"我们的故事"）。

@@ -41,12 +41,21 @@
 | 12 否 | 苹果 1997 闭塞期守持转折（1997–1998） | 俭德辟难＋其亡其亡：砍至四条产品线→iMac 转折 | [AppleInsider](https://appleinsider.com/articles/18/07/10/gil-amelio-resigned-at-apple-ceo-21-years-ago-paving-the-way-for-steve-jobs-ascension-as-ceo) / [Fortune 2009](https://fortune.com/article/decade-steve-jobs-apple/) |
 | 15 谦 | Costco 低加价与高工资（1983 起） | 地中有山＋裒多益寡：加价上限政策、起薪 17 美元 | [Costco Connection 官方刊（HTTP 200）](https://www.costcoconnection.com/september_2025/page4.html) / [CNN（HTTP 200）](https://www.cnn.com/2021/10/27/business/costco-minimum-wage) / [Nasdaq（14%/15% 口径）](https://www.nasdaq.com/articles/how-costco-makes-money-despite-150-hot-dog-combos) |
 | 19 临 | 丰田现地现物与安灯拉绳（TPS） | 至临＋知临：一线可停线、主管到现场 | [Toyota 官方 75 年史（HTTP 200）](https://www.toyota-global.com/company/history_of_toyota/75years/text/entering_the_automotive_business/chapter1/section4/item4.html) |
+| 45 萃 | AOL 与时代华纳"聚而复散"（2000–2009） | 约 1,640 亿美元合并聚了股权没聚人心（有孚不终乃乱乃萃），2009 年分拆收场 | [HBS 案例（HTTP 200）](https://store.hbr.org/product/aol-time-warner-inc/702421) / [SEC 存档（curl 403 反爬）](https://www.sec.gov/Archives/edgar/data/1105705/000095015709000979/ex99-1.htm) |
+| 45 萃 | 迪士尼收购皮克斯的保留式整合（2006） | 保留创作文化之"庙"＋双方信任的牵引者主事（王假有庙/引吉） | [Disney 官方（HTTP 200）](https://thewaltdisneycompany.com/press-releases/disney-completes-pixar-acquisition/) / [Pixar 官方（HTTP 200）](https://www.pixar.com/our-story) |
+| 46 升 | 台积电纯代工的台阶式上升（1987 起） | 进空白代工赛道＋一代踩实再进一代（升虚邑/积小以高大/贞吉升阶） | [TSMC 官方（curl 403 反爬）](https://www.tsmc.com/static/abouttsmcaz/index.htm) / [Britannica（curl 403 反爬）](https://www.britannica.com/money/Taiwan-Semiconductor-Manufacturing-Co) / [百度百科英文版（HTTP 200）](https://baike.baidu.com/en/item/Morris%20Chang/1449799) |
+| 46 升 | WeWork 2019 年 IPO 叫停（冥升样本） | 估值叙事升在经营治理前面，升过头不停则倾（冥升消不富） | [CGTN（HTTP 200）](https://news.cgtn.com/news/2019-09-18/Tracking-the-twists-and-turns-of-WeWork-s-IPO--K50I1qra1O/index.html) / [福布斯中国（curl 000 沙箱证书链问题）](https://www.forbeschina.com/technology/66109) / [36 氪（HTTP 200）](https://36kr.com/p/2511067574829061) |
+| 47 困 | 阿波罗 13 号"成功的失败"（1970） | 爆炸后保住返回方向、供给向核心集中、慢而有终（困而不失其所亨） | [NASA 官方（HTTP 200）](https://www.nasa.gov/missions/apollo/apollo-13-mission-details/) |
+| 47 困 | 通用汽车 40 天破产重整（2009） | 承认问题、割舍品牌债务，悔中求变（动悔有悔征吉） | [SEC 存档（curl 403 反爬）](https://www.sec.gov/Archives/edgar/data/1467858/000119312509150199/dex991.htm) / [Treasury（HTTP 200）](https://home.treasury.gov/news/press-releases/tg456) |
+| 48 井 | 弗林特水危机（2014–2015） | 省掉防腐蚀"修井"致井泥不食，识别缺位迟迟无人启用（井甃缺位/王明） | [CDC 官方（curl 403 反爬）](https://www.cdc.gov/lead-prevention/success-stories-by-state/flint-michigan.html) / [PMC（HTTP 200）](https://pmc.ncbi.nlm.nih.gov/articles/PMC5086690/) |
+| 48 井 | CERN 将万维网放入公共领域（1993） | 标准不随城邑迁改、供给开放不加盖（改邑不改井/井收勿幕） | [CERN 官方（HTTP 200）](https://home.cern/science/computing/the-birth-of-the-web/licensing-web/) / [CERN Timeline（HTTP 200）](https://timeline.web.cern.ch/cern-puts-world-wide-web-public-domain) |
 
 ## 完成度
 
 - 已配实例的新卦：23 剥（2）、24 复（2）、63 既济（2）、64 未济（2）、33 遁（2）、36 明夷（2）、40 解（2）、43 夬（2）、44 姤（2）、35 晋（1）、39 蹇（1）、41 损（1）、42 益（1）——完成度 13/13。
+- 第六期新增：45 萃（2）、46 升（2）、47 困（2）、48 井（2）——完成度 4/4。
 - 已回填的旧卦：49 革、03 屯、06 讼、01 乾、02 坤、04 蒙、05 需、08 比、07 师、11 泰、12 否、15 谦、19 临（各 1）——完成度 13/13。
-- 全部 26 篇已成文卦的实例覆盖：26/26（19 临另含案例 1 起卦记录，不作检验材料）。
+- 全部 30 篇已成文卦的实例覆盖：30/30（19 临另含案例 1 起卦记录，不作检验材料）。
 
 ## 核验备注
 
@@ -54,4 +63,5 @@
 - 第五期新增 URL 同样逐条 curl 验证，输出见 `.openclaw/tmp/zhouyi_phase5_url_check.txt`：标"HTTP 200"者为 2xx/3xx 通过；标"curl 403/401/406 反爬"者为官方/权威源但反爬拦截（S&P Global、MarketWatch、Britannica、CPSC、CBS、AP 等），每例均配 2xx 备选源同行；FDA 官方历史页原链接 curl 404（页面迁移），按纪律替换为 The 19th + Smithsonian（均 200）；MassLive 连接超时（000），替换为 CNN（200）；DOJ 新闻稿存档 curl 超时（沙箱出口不通，内容经检索结果确认），不作孤证、配 IRS 官方公告（200）备选；Costco 加价上限数字（14%/15%）为业界常引口径、公司官方口径为"极低加价上限政策"，正文标"待核"。
 
 - 数字口径存在来源差异处（诺基亚份额 40%–49%、Qwikster 流失订户 80 万～200 万等），正文均已标注区间，不做精算。
+- 第六期新增 URL 同样逐条 curl 验证，输出见 `.openclaw/tmp/zhouyi_phase6_url_check.txt`：标"HTTP 200"者为 2xx/3xx 通过；标"curl 403 反爬"者为官方/权威源但反爬拦截（SEC EDGAR 存档、TSMC 官网、Britannica、CDC），每例均配 2xx 备选源同行（HBR/Treasury/PMC/百度百科英文版）；福布斯中国 curl 000 为沙箱证书链问题（`--insecure` 下 200、站点实际可达），配 36 氪（200）同行；TSMC 全站反爬（多个官方子域均 403），以百度百科英文版（200）为本例 2xx 备选主源；Wikipedia 沙箱出口不通（000）不采用；HandWiki 对应词条 404 不采用。台积电代工市占（2005 年约半数）与 GM 救助总额（约 500 亿美元）、WeWork 估值（470/490 亿美元）为常引口径，正文已标"待核/区间"。
 - 一切实例只作"实践检验"材料：不据实例推断任何未来吉凶，不把个案当普遍规律（硬边界 1、2）。
