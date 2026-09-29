@@ -95,6 +95,14 @@
   - "毒天下"之诫：动员是有社会成本的，事前核算代价，不可只算收益。
 - **验证方式**：令出多门事件数、越级干预次数、撤退决策的及时性、复盘归因错误率、赏罚与任用错配投诉——逐月统计。
 
+### 现代实例
+
+**实例 1：沃尔玛卡特里娜飓风救援动员（2005）**
+- 事件经过：2005 年 8 月 29 日卡特里娜飓风登陆美国墨西哥湾沿岸后，沃尔玛启动应急运营：保护并重开门店、救助员工与社区，向海湾各州及得州调运 2,450 余车（truckloads）的物资、水、食品与衣物（公司官方年表口径），其应急响应成为企业—公共部门协作的课堂案例（哈佛肯尼迪学院/HBR 案例收录）。
+- 对应结构："师出以律"（应急预案与供应链纪律先行）＋"容民畜众"（动员组织与物资供给）＋"在师中吉"（一线门店现场授权、就近决策）＋"怀万邦"目的（救援以社区受益为目标）。
+- 边界与条件：物资车数以公司官方年表口径（2,450+ truckloads）为准；此例只核验"动员—纪律—授权"结构，不构成对企业劳工与商业实践的全面评价（硬边界 1、2）。
+- 来源：[Walmart 官方（corporate.walmart.com）：Sam's Club History Timeline（含 2005 年卡特里娜响应与 2,450 车物资，HTTP 200）](https://corporate.walmart.com/about/samsclub/sams-club-history/timeline)；[Harvard Kennedy School / HBR Store：Wal-Mart's Response to Hurricane Katrina: Striving for a Public-Private Partnership（HKS150）](https://store.hbr.org/product/wal-mart-s-response-to-hurricane-katrina-striving-for-a-public-private-partnership/hks150)
+
 ## 六、与其他卦的关联
 
 - **19 临**：本卦为临之变卦（案例 1）。临感人心，师立结构；先临后师是"温度→结构"的次序。
