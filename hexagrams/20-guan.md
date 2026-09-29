@@ -112,7 +112,7 @@
 - 事件经过：2018 年 7 月，特斯拉宣布在上海建厂（计划投资约 500 亿元人民币、年产能 50 万辆口径）——恰逢中国取消新能源汽车外资股比限制三个月后；2019 年 1 月开工，**同年 12 月首车下线投产**，成为中国**首家外商独资整车制造项目**（此前外资车企须合资或缴 25% 关税）；业界以"鲶鱼效应"形容其对本土新能源产业链的带动。
 - 对应结构："**观国之光，利用宾于王**"——先观中国新能源之"光"（市场规模、供应链、政策开放之气象），后"宾"（入局设厂、以独资身份合作）；"**省方观民设教**"的对向——中国一侧以开放政策"设教"（取消股比限制）示光，特斯拉循光而来；"**盥而不荐**"——以"当年开工、当年投产"的真动作立信（盥），而非停留于签约排场（荐）。
 - 可核验的边界/条件：2018-07 宣布、2019-01 开工、2019-12 投产、首家外商独资整车厂、投资与产能口径以人民网英文、PMI 项目记录等公开报道为准（投资/产能为计划口径，正文标"口径"）；"鲶鱼效应"为业界评价、非定论；本例只核验"先观气象—后入局—以实作立信"结构，不构成对该公司的评价或投资建议（硬边界 1、2）。
-- 来源：[人民网英文（HTTP 200）：Tesla's 'catfish effect' and China's 10-million-unit milestone in NEV production（含 2018-07 宣布、2019 开工投产、首家外商独资口径）](http://en.people.cn/n3/2024/1204/c90000-20249994.html) / [PMI Most Influential Projects 2020（HTTP 200，备选主源，含 168 个工作日工期与独资背景）](https://www.pmi.org/most-influential-projects-2020/50-most-influential-projects/tesla-gigafactory-shanghai)
+- 来源：[人民网英文（HTTP 200）：Tesla's 'catfish effect' and China's 10-million-unit milestone in NEV production（含 2018-07 宣布、2019 开工投产、首家外商独资口径）](http://en.people.cn/n3/2024/1204/c90000-20249994.html) / [PMI Most Influential Projects 2020（curl 403 反爬，权威源，含 168 个工作日工期与独资背景）](https://www.pmi.org/most-influential-projects-2020/50-most-influential-projects/tesla-gigafactory-shanghai)
 
 ## 六、与其他卦的关联
 

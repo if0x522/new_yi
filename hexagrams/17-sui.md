@@ -112,7 +112,7 @@
 - 事件经过：2008-02-11，雅虎董事会拒绝微软每股 31 美元、总额约 446 亿美元的收购提议，称其"大幅低估雅虎价值"，CEO 杨致远意在更高报价或独立；此后公司持续下滑（营收 2008 年见顶、逐年萎缩），2017 年 6 月以约 44.8 亿美元将核心互联网业务出售给威瑞森完成交割——约为当年拒绝报价的十分之一量级（业界常引口径）。
 - 对应结构："**系小子，失丈夫；弗兼与也**"——既想保住独立与更高估值（系一端）、又想翻盘（兼得幻想），取舍账两头落空；"**随有求得，利居贞**"的反面——求"得"（更高价）而未居贞（无现实路径支撑）；对照"**官有渝**"——拒绝时的立场（独立价值会涨）未能随形势之"时"而渝。
 - 可核验的边界/条件：2008-02-11 拒绝 31 美元/股（约 446 亿美元）、2017 年 6 月完成向威瑞森出售（约 44.8 亿美元）以公开报道与 SEC 备案口径为准；"十分之一量级"为算术对照，非估值结论；雅虎另有阿里/雅虎日本持股等复杂因素，本例只核验"取舍幻想—失机—缩水处置"结构，不构成对该公司的整体评价（硬边界 1、2）。
-- 来源：[Decision Intel 案例库（HTTP 200）：Yahoo Collapse (2008)，引 2008-02-11 SEC 备案](https://www.decision-intel.com/case-studies/yahoo-2008) / [Investopedia（HTTP 200）：How Yahoo Makes Money（含 2017 年 44.8 亿美元出售口径）](https://www.investopedia.com/articles/markets/121015/how-yahoo-makes-money-yhoo.asp) / [Britannica Money：Yahoo Inc.（curl 403 反爬，权威源，含 2017 年交割 44.8 亿美元）](https://www.britannica.com/money/Yahoo-Inc)
+- 来源：[Decision Intel 案例库（HTTP 200）：Yahoo Collapse (2008)，引 2008-02-11 SEC 备案](https://www.decision-intel.com/case-studies/yahoo-2008) / [ABC News（HTTP 200，备选主源，2008-05 报道微软撤回 475 亿美元报价之争）](https://abcnews.com/Business/story?id=4781758&page=1) / [Fortune（HTTP 200，含 2008 年拒绝 446 亿美元口径）](https://fortune.com/2026/03/29/yahoo-ceo-jim-lanzone-white-whale-tunarounds-ai-scout-anthropic/) / [Investopedia（curl 403 反爬）：How Yahoo Makes Money（含 2017 年 44.8 亿美元出售口径）](https://www.investopedia.com/articles/markets/121015/how-yahoo-makes-money-yhoo.asp) / [Britannica Money：Yahoo Inc.（curl 403 反爬，权威源，含 2017 年交割 44.8 亿美元）](https://www.britannica.com/money/Yahoo-Inc)
 
 ## 六、与其他卦的关联
 
