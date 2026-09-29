@@ -94,6 +94,14 @@
   - 屯卦不含"预测何时成功"：所有"吉凶"字样均为行为后果描述；起步期时长无法推算，只能以验证指标推进（硬边界 1、2）。
 - **验证方式**：治理三件套完备度、扩张判据的达成记录、向导覆盖率、"见几而舍"执行次数与止损金额、传导指数月度曲线、耗竭预警触发率。
 
+### 现代实例
+
+**实例 1：Airbnb 创业初期的"磐桓"（2008）**
+- 事件经过：2008 年 Airbnb（时名 AirBed & Breakfast）创始人付不起旧金山房租、靠刷信用卡维持，手工制作奥巴马/麦凯恩主题麦片盒（每盒 40 美元）筹资；2008 年 11 月，麦片盒打动 Y Combinator 创始人 Paul Graham，公司入选 YC 并获 2 万美元投资（换 6% 股份），随后重做品牌与定位，逐步走出起步困局。
+- 对应结构："刚柔始交而难生"＋初九"磐桓"——起步期原地打转、现金流几近枯竭；麦片筹资是"见几而舍"式的低成本试错，YC 入驻对应"建侯"（确立组织与资源依托）；"十年乃字"的谈判/存活耐心。
+- 边界与条件：麦片盒数量等细节各来源有出入（500 盒/每款 500 盒等说法），故只引可靠主干；早期生存故事不可复制为成功公式；实例只检验"起步困难＋治理依托"结构，不做吉凶判断。
+- 来源：[Fortune：Airbnb used a $40 cereal box to get its first investment](https://www.fortune.com/2023/04/19/airbnb-ceo-cereal-box-investors-changed-everything-billion-dollar-company/)；[The Founder Nation：Airbnb founder story](https://www.thefoundernation.com/airbnb-founder-story-how-two-guys-hot-gluing-cereal-boxes-built-a-travel-giant/)
+
 ## 六、与其他卦的关联
 
 - **01 乾**：屯之初九即"潜龙"时位——"磐桓"与"潜"是同一阶段的两个侧面。
