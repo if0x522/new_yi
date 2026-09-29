@@ -109,7 +109,7 @@
 - 事件经过：2008-09-15 凌晨，雷曼兄弟控股公司依美国《破产法》第 11 章申请破产保护，申报资产约 6,390 亿美元，为美国当时规模最大的破产案（Britannica 口径：申请前市值已蒸发约 93%）；此前一周政府与潜在买家的谈判未达成救助，公司未获救而倒下；其破产触发全球金融市场的连锁冲击（道指当日创当时最大单日跌幅，六个月内主要指数跌逾 50% 后于 18 个月收复）。
 - 对应结构："**过涉灭顶，凶，无咎**"（高杠杆、长短错配地涉入深水，深度未事前标定，终至没顶；"不可咎也"＝没顶之后追责已无补于事——**事前的深度标定才是责任所在**）；对照九二/九四（无"稊"的扩张、无"隆"的结构自撑）；与 47 困（资源穷）、33 遁（该退不退）互参：雷曼之失是**该撤不撤、涉险无底**的复合样本。
 - 可核验的边界/条件：6,390 亿美元资产、破产日期以破产申请与百科全书口径为准；"道指最大单日跌幅/六月内跌逾 50%"为 Britannica 口径（不同时点口径不同，此处引量级）；破产原因分析（杠杆、流动性、监管缺位）在文献中有不同权重，本例只核验"涉险过深—灭顶—不可咎"结构，不构成对任何机构或个人的法律评价（硬边界 1、2）。
-- 来源：[HISTORY：Lehman Brothers declares bankruptcy（HTTP 200）](https://www.history.com/this-day-in-history/September-15/lehman-brothers-collapses) / [Britannica：Bankruptcy of Lehman Brothers（curl 403 反爬，权威备查）](https://www.britannica.com/event/bankruptcy-of-Lehman-Brothers) / [Markethistories：The Lehman Brothers Collapse（HTTP 200，备选源）](https://www.markethistories.com/en/the-lehman-brothers-collapse-the-weekend-the-fed-let-a-158-year-old-firm-fail-2008)
+- 来源：[美联储官方史（Federal Reserve History，HTTP 200，备选主源）](https://www.federalreservehistory.org/essays/lehman-brothers) / [HISTORY：Lehman Brothers declares bankruptcy（curl 406 反爬）](https://www.history.com/this-day-in-history/September-15/lehman-brothers-collapses) / [Britannica：Bankruptcy of Lehman Brothers（curl 403 反爬，权威备查）](https://www.britannica.com/event/bankruptcy-of-Lehman-Brothers) / [Markethistories：The Lehman Brothers Collapse（curl 429 限流，备查）](https://www.markethistories.com/en/the-lehman-brothers-collapse-the-weekend-the-fed-let-a-158-year-old-firm-fail-2008)
 
 ## 六、与其他卦的关联
 

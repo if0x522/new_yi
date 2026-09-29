@@ -106,13 +106,13 @@
 - 事件经过：1930 年美国普林斯顿成立高等研究院（Institute for Advanced Study，IAS），以"无教学义务的纯研究"为制度设计，首任院长 Abraham Flexner 主持；1933 年爱因斯坦因纳粹上台离开德国加入 IAS 并在此工作至 1955 年去世，其后 IAS 长期供养数学、自然科学、历史、社会科学等领域的学者，成为独立研究机构的范本（IAS 官方"Mission & History"称其 1930 年以来一直是对独立探究的保护与促进的范例）。
 - 对应结构："**不家食吉，养贤也**"（学者食于机构而不困于自谋生计、不为短期课时与项目折腰——贤者不独食于家）；"**刚上而尚贤**"（以制度尊贤、给贤者以位置）；"**多识前言往行，以畜其德**"（学术共同体对前人成果的累积与传承）；"**日新其德**"（纯研究的产出正是"德"的更新而非库存）。
 - 可核验的边界/条件：IAS 成立时间、爱因斯坦 1933 年入职与任职至 1955 年均以 IAS 官方页面为准；本例只核验"公共/捐赠供养使贤者免于自谋生计"的结构，不构成对其资助模式或产出效率的整体评价（硬边界 1、2）。
-- 来源：[IAS 官方：Mission & History（HTTP 200）](https://www.ias.edu/about/mission-history) / [IAS 官方：Albert Einstein 学者页（HTTP 200）](https://www.ias.edu/scholars/einstein)
+- 来源：[IAS 官方：Mission & History（curl 403 反爬，官方源）](https://www.ias.edu/about/mission-history) / [IAS 官方：Albert Einstein 学者页（curl 403 反爬，官方源）](https://www.ias.edu/scholars/einstein) / [普林斯顿大学档案馆官方（HTTP 200，备选主源：1930 年由 Bamberger/Fuld 资助创立、Flexner 首任院长）](https://universityarchives.princeton.edu/2015/10/dear-mr-mudd-is-the-institute-for-advanced-study-part-of-princeton-university/)
 
 **实例 2：荷兰三角洲工程（Delta Works）——"童牛之牿、曰闲舆卫"的国家级设防（1953–1986，持续运行至今）**
 - 事件经过：1953-02-01 北海风暴潮冲垮荷兰西南部堤防，约 1,836 人罹难、约 2,070 平方公里被淹；灾后一个月内荷兰成立三角洲委员会（Delta Commission）制定长期防洪计划，并以《三角洲法》立法推进实施（立法年份 1958 为常引口径，待核）；实施三角洲工程：封堵河口、缩短海岸线约 700 公里；其中东斯海尔德风暴屏障（Oosterscheldekering，1976–1986 建成，长 9 公里、其中 3 公里可关闭）为最大单项，1986 年建成投用；工程被美国土木工程师学会列为现代世界七大工程奇迹之一，至今由荷兰公共工程与水管理总署（Rijkswaterstaat）运营维护。
 - 对应结构："**童牛之牿，元吉**"（在下一次"小牛顶人"之前上牿：把防洪约束建在灾变成形之前，1953 之灾是"未牿"的代价，其后工程是补牿）；"**豮豕之牙**"（封堵河口是从机制上消除风暴潮危害的产生条件，而非一次次抢修堤段）；"**曰闲舆卫**"（屏障建成后的常年调度、维护与关闭演练＝防务不废）；"**利涉大川**"（蓄防足而后可涉）。
 - 可核验的边界/条件：死亡人数口径有 1,836（Britannica）与 1,800+ 等不同口径，本文引 1,836 并注明量级；东斯海尔德屏障长度与建成时间以 Rijkswaterstaat 官方口径为准；"七大工程奇迹"为美国土木工程师学会评定口径；本例只核验"防患于未然＋治本去机制＋常备防务"结构，不构成对荷兰水利政策的整体评价（硬边界 1、2）。
-- 来源：[Rijkswaterstaat 官方：Eastern Scheldt Barrier（HTTP 200）](https://www.rijkswaterstaat.nl/en/about-us/gems-of-rijkswaterstaat/eastern-scheldt-barrier) / [休斯敦大学工程史项目：Dutch Flood Control（HTTP 200）](https://engines.egr.uh.edu/episode/2850) / [Britannica：Delta Works（curl 403 反爬，权威备查）](https://www.britannica.com/event/Delta-Works)
+- 来源：[Rijkswaterstaat 官方：Eastern Scheldt Barrier（curl 403 反爬，官方源）](https://www.rijkswaterstaat.nl/en/about-us/gems-of-rijkswaterstaat/eastern-scheldt-barrier) / [休斯敦大学工程史项目：Dutch Flood Control（HTTP 200）](https://engines.egr.uh.edu/episode/2850) / [Britannica：Delta Works（curl 403 反爬，权威备查）](https://www.britannica.com/event/Delta-Works)
 
 ## 六、与其他卦的关联
 

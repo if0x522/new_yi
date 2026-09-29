@@ -108,13 +108,13 @@
 - 事件经过：2011-03-11 14:46 日本东北外海发生 M9.0 地震（日本观测史上最大），引发大海啸，沿岸岩手、宫城、福岛等县遭毁灭性打击；海啸导致福岛第一核电站全电源丧失、堆芯熔毁，2011-04-12 日本政府将核事故定级为国际核事件分级表（INES）**7 级**（最高级）；日本建筑学会（JRC）总结称这是人类有记录以来**首个"三重灾害"（triple disaster）**——地震、海啸、核事故链式相因；日本政府于 2011-09-15 向国际原子能机构（IAEA）提交追加报告，载明事故经过、场外应急与 28 项教训事项。
 - 对应结构："**习坎，重险也；水洊至**"（险一再来：震→海啸→核事故，三险相因）；"**来之坎坎，险且枕**"（每个环节的处置都踩在下一层险上：排水、注水、疏散互为险）；"**常德行，习教事**"（其后 28 项教训事项与全球核安全行动计划＝在险中练事）；"**王公设险以守其国**"（海啸防波堤、纵深防御等设险议题）。
 - 可核验的边界/条件：M9.0、3-11 时间、INES 7 级（2011-04-12）以日本政府/IAEA 报告口径为准；遇难与失踪人数各口径不一（约 1.8 万+量级，本文不引精数）；"首个三重灾害"为 JRC 总结的表述口径；本例只核验"连环险—险中处置—险后设防"结构，不构成对任何机构的核安全评价（硬边界 1、2）。
-- 来源：[IAEA 官方：日本政府追加报告（2011-09-15，含 28 项教训事项，HTTP 200）](https://www.iaea.org/zh/node/10188) / [日本建筑学会 JRC：Summary of the Great East Japan Earthquake and Tsunami（HTTP 200）](https://www.jrc.or.jp/eq-japan2011/summary/)
+- 来源：[IAEA 官方：日本政府追加报告（2011-09-15，含 28 项教训事项；curl 403 反爬，官方源）](https://www.iaea.org/zh/node/10188) / [日本建筑学会 JRC：Summary of the Great East Japan Earthquake and Tsunami（HTTP 200）](https://www.jrc.or.jp/eq-japan2011/summary/)
 
 **实例 2：2018 年泰国睡美人洞救援——"行险有孚"与"樽酒簋贰用缶"的险中通诚（2018-06-23～07-10）**
 - 事件经过：2018-06-23 泰国清莱府睡美人洞（Tham Luang），12 名 11–16 岁少年足球队员与 25 岁教练进洞探险后因暴雨洪水被困；救援历时 **18 天**，泰国海军海豹突击队、多国潜水员与工程团队协力，抽水、潜渡、供电并行；英国潜水员在距洞口约 4 公里处发现被困者全部生还；2018-07-08 至 07-10 分三批将 13 人全部救出（新华社报道：7 月 11 日确认全部获救）；美军印太司令部应泰国政府请求派出搜救队支援，与泰军及工程方联合制订潜水方案（美国驻泰使馆与 DVIDS 官方影像记录）。
 - 对应结构："**习坎/来之坎坎**"（洪水上涨、天气恶化、氧气消耗——险一再来且相互锁死）；"**行险而不失其信**"（潜水员在极端条件下守操作纪律与相互承诺，逐段往返运补）；"**樽酒簋贰，用缶，纳约自牖**"（险中通诚＝最简供给与最短路径：潜水递送食物药品与氧气瓶、沿缝隙进入，"纳约自牖"式小切口，而非打开正门）；"**求小得**"（一段一段推进，每次只求"下一段"）。
 - 可核验的边界/条件：18 天被困、13 人全部获救、英国潜水员发现位置约 4 公里为公开报道口径；救援中的医疗处置细节（镇静潜渡）在医学伦理上有讨论，本例只核验"连环险—简约通诚—小步穿行"结构，不构成对救援方式的医学或法律评价（硬边界 1、2）。
-- 来源：[新华社英文：All 12 boys, football coach rescued from flooded cave（HTTP 200）](http://www.xinhuanet.com/english/2018-07/11/c_137315239_3.htm) / [美国驻泰国大使馆官方（载 USINDOPACOM 搜救队支援记录，HTTP 200）](https://th.usembassy.gov/thailand-u-s-host-senior-leader-dialogue/) / [DVIDS 官方影像与说明（HTTP 200）](https://www.dvidshub.net/image/4547299/us-support-missing-thai-nationals-tham-luang-cave)
+- 来源：[新华社英文：All 12 boys, football coach rescued from flooded cave（HTTP 200）](http://www.xinhuanet.com/english/2018-07/11/c_137315239_3.htm) / [美国驻泰国大使馆官方（载 USINDOPACOM 搜救队支援记录；curl 403 反爬，官方源）](https://th.usembassy.gov/thailand-u-s-host-senior-leader-dialogue/) / [DVIDS 官方影像与说明（curl 403 反爬，官方影像源）](https://www.dvidshub.net/image/4547299/us-support-missing-thai-nationals-tham-luang-cave)
 
 ## 六、与其他卦的关联
 
