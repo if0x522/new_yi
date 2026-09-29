@@ -49,13 +49,24 @@
 | 47 困 | 通用汽车 40 天破产重整（2009） | 承认问题、割舍品牌债务，悔中求变（动悔有悔征吉） | [SEC 存档（curl 403 反爬）](https://www.sec.gov/Archives/edgar/data/1467858/000119312509150199/dex991.htm) / [Treasury（HTTP 200）](https://home.treasury.gov/news/press-releases/tg456) |
 | 48 井 | 弗林特水危机（2014–2015） | 省掉防腐蚀"修井"致井泥不食，识别缺位迟迟无人启用（井甃缺位/王明） | [CDC 官方（curl 403 反爬）](https://www.cdc.gov/lead-prevention/success-stories-by-state/flint-michigan.html) / [PMC（HTTP 200）](https://pmc.ncbi.nlm.nih.gov/articles/PMC5086690/) |
 | 48 井 | CERN 将万维网放入公共领域（1993） | 标准不随城邑迁改、供给开放不加盖（改邑不改井/井收勿幕） | [CERN 官方（HTTP 200）](https://home.cern/science/computing/the-birth-of-the-web/licensing-web/) / [CERN Timeline（HTTP 200）](https://timeline.web.cern.ch/cern-puts-world-wide-web-public-domain) |
+| 50 鼎 | 新加坡 HDB 组屋立制（1960 起） | 承接旧机构、清棚户积弊而立新制（鼎颠趾利出否/正位凝命），9 个月建成 768 套应急租屋 | [remembering.gov.sg（官方，HTTP 200）](https://www.remembering.gov.sg/life-and-contributions/mr-lee-and-singapore/housing-the-nation/) / [nas.gov.sg（官方，HTTP 202）](https://www.nas.gov.sg/archivesonline/data/pdfdoc/2000061101.htm) |
+| 50 鼎 | 麦当劳特许经营接口体系（1955 起） | 标准化流程＋培训杠杆做成“黄耳金铉”，先有实货再复制 | [HBS 官方领袖库（HTTP 200）](https://www.hbs.edu/leadership/20th-century-leaders/details?profile=raymond_a_kroc) / [Britannica Money（curl 403 反爬）](https://www.britannica.com/money/McDonalds) |
+| 51 震 | 印度洋海啸预警系统（2005 起） | 邻之震转为自戒：2005 年 IOC 决议建预警、印度 2007 年起运行（畏邻戒也） | [UNESCO-IOC 官方（HTTP 200）](https://tsunami.ioc.unesco.org/en/iotwms) / [INCOIS 官方（HTTP 200，--insecure）](https://tsunami.incois.gov.in/TEWS/abouttsunamiready.jsp) |
+| 51 震 | 2021 德州电网冰冻（2021-02） | 备震缺位致大瘫痪，事后 FERC/NERC 28 条建议（恐惧修省补课） | [FERC 官方（curl 403 反爬）](https://www.ferc.gov/news-events/news/final-report-february-2021-freeze-underscores-winterization-recommendations) / [NPR 专题（HTTP 200）](https://www.npr.org/sections/live-updates-winter-storms-2021/) |
+| 52 艮 | 英特尔退出存储器业务（1985） | 主动知止、聚焦微处理器（艮其背/敦艮）；此前数年卡在两者间即“厉薰心” | [CommonCog（HTTP 200）](https://commoncog.com/c/cases/intel-transition-memories-processors/) / [IT History（HTTP 200）](https://history.itlibra.com/en/organizations/intel) |
+| 52 艮 | 索尼出售 VAIO 退出 PC（2014） | 止身聚焦三大支柱、退出收厚（敦艮以厚终），2014-05-02 签最终协议 | [索尼官方（curl 403 反爬）](https://www.sony.com/en/SonyInfo/News/Press/201405/14-0502E/) / [TechCrunch（HTTP 200）](https://techcrunch.com/2014/02/06/sony-vaio-sale/) |
+| 53 渐 | 中国载人航天“三步走”（1992–2022） | 三十年三步、阶阶有实（鸿渐六阶/终莫之胜） | [中国载人航天工程官网（HTTP 200）](https://www.cmse.gov.cn/xwzx/202310/t20231015_54387.html) |
+| 53 渐 | 印度月船二号→三号（2019–2023） | 着陆失败退一阶补实、按序再进（利御寇/终莫之胜） | [ISRO 官方（curl 403 反爬）](https://www.isro.gov.in/Making_Chandrayaan3_ISRO_culture.html) / [CGTN（HTTP 200）](https://news.cgtn.com/news/2023-08-23/India-s-Chandrayaan-3-spacecraft-soft-lands-on-the-moon-1mvgVeM8GNW/share_amp.html) / [新华社英文（HTTP 200）](https://english.news.cn/asiapacific/20230806/fe5e4e8481384f8fabae8fbe273d5ebf/c.html) |
+| 54 归妹 | 戴姆勒—克莱斯勒强合剥离（1998–2007） | “对等合并”名实错位、协同空筐，2007 年剥离收场（女承筐无实/反归以娣） | [奔驰官方公司史（curl 403 反爬）](https://group.mercedes-benz.com/company/tradition/company-history/1995-2007.html) / [Auto Journal Africa（HTTP 200）](https://autojournal.africa/why-the-daimler-chrysler-merger-became-one-of-the-auto-industrys-biggest-failures/) |
+| 54 归妹 | eBay 买卖 Skype（2005–2009） | 场景错位协同无实（承筐无实），2009-11-19 出售约 70% 股权收场 | [SEC 存档（curl 403 反爬）](https://www.sec.gov/Archives/edgar/data/1065088/000119312509238625/dex991.htm) / [中国新闻网（HTTP 200）](http://www.chinanews.com.cn/it/it-itxw/news/2009/09-03/1847595.shtml) / [DealRoom（HTTP 200）](https://dealroom.net/blog/biggest-mergers-and-acquisitions-failures) |
 
 ## 完成度
 
 - 已配实例的新卦：23 剥（2）、24 复（2）、63 既济（2）、64 未济（2）、33 遁（2）、36 明夷（2）、40 解（2）、43 夬（2）、44 姤（2）、35 晋（1）、39 蹇（1）、41 损（1）、42 益（1）——完成度 13/13。
 - 第六期新增：45 萃（2）、46 升（2）、47 困（2）、48 井（2）——完成度 4/4。
+- 第七期新增：50 鼎（2）、51 震（2）、52 艮（2）、53 渐（2）、54 归妹（2）——完成度 5/5。
 - 已回填的旧卦：49 革、03 屯、06 讼、01 乾、02 坤、04 蒙、05 需、08 比、07 师、11 泰、12 否、15 谦、19 临（各 1）——完成度 13/13。
-- 全部 30 篇已成文卦的实例覆盖：30/30（19 临另含案例 1 起卦记录，不作检验材料）。
+- 全部 35 篇已成文卦的实例覆盖：35/35（19 临另含案例 1 起卦记录，不作检验材料）。
 
 ## 核验备注
 
@@ -64,4 +75,5 @@
 
 - 数字口径存在来源差异处（诺基亚份额 40%–49%、Qwikster 流失订户 80 万～200 万等），正文均已标注区间，不做精算。
 - 第六期新增 URL 同样逐条 curl 验证，输出见 `.openclaw/tmp/zhouyi_phase6_url_check.txt`：标"HTTP 200"者为 2xx/3xx 通过；标"curl 403 反爬"者为官方/权威源但反爬拦截（SEC EDGAR 存档、TSMC 官网、Britannica、CDC），每例均配 2xx 备选源同行（HBR/Treasury/PMC/百度百科英文版）；福布斯中国 curl 000 为沙箱证书链问题（`--insecure` 下 200、站点实际可达），配 36 氪（200）同行；TSMC 全站反爬（多个官方子域均 403），以百度百科英文版（200）为本例 2xx 备选主源；Wikipedia 沙箱出口不通（000）不采用；HandWiki 对应词条 404 不采用。台积电代工市占（2005 年约半数）与 GM 救助总额（约 500 亿美元）、WeWork 估值（470/490 亿美元）为常引口径，正文已标"待核/区间"。
+- 第七期新增 URL 同样逐条 curl 验证，输出见 `.openclaw/tmp/zhouyi_phase7_url_check.txt`：标"HTTP 200"者为 2xx/3xx 通过；标"curl 403 反爬"者为官方/权威源但反爬拦截（Britannica、FERC、索尼官方新闻稿、ISRO 官方、奔驰官方公司史、SEC EDGAR 存档），每例均配 2xx 备选源同行（HBS 官方领袖库、NPR、TechCrunch、CGTN/新华社英文、Auto Journal Africa/DealRoom、中国新闻网）；INCOIS（印度国家海洋信息中心）为沙箱证书链问题（`--insecure` 下 200、站点实际可达）；eBay 投资者关系站（investors.ebayinc.com）连续 429 临时限流，不采用、配 SEC 存档与中新网同行；nas.gov.sg 返回 202（2xx 通过）。载人航天"三步走"、海啸预警系统、英特尔 1985 退出存储器等事件的数字口径（768 套/9 个月、逾 22 万遇难、约 8,000 人/7 家厂等）为官方或常引口径，正文已标"待核/区间"。
 - 一切实例只作"实践检验"材料：不据实例推断任何未来吉凶，不把个案当普遍规律（硬边界 1、2）。
