@@ -1,0 +1,405 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>《周易》现代转译 · 可检索站点</title>
+<meta name="description" content="《周易》现代转译工程可检索静态站点：六十四卦六节全本、术语表、实例索引。反对迷信占卜，仅解读思想。">
+<meta name="robots" content="index,follow">
+<link rel="stylesheet" href="assets/site.css">
+
+</head>
+<body>
+<div class="watermark-layer" aria-hidden="true"></div>
+<header class="site-header">
+  <a class="brand" href="index.html"><span class="brand-seal" aria-hidden="true">译</span>《周易》现代转译</a>
+  <form class="mini-search" action="index.html" method="get" role="search">
+    <input type="search" name="q" placeholder="搜卦名 / 关键词 / 句子" aria-label="站内检索">
+    <button type="submit">检索</button>
+  </form>
+</header>
+<p class="disclaimer-bar">⚠️ 反对迷信占卜，仅解读思想——本项目不做任何吉凶预测与命运占断，只做文本解读与方法论研究</p>
+<main class="page">
+
+<section class="hero">
+  <figure class="hero-cover">
+    <img src="assets/cover.png" alt="《周易》现代转译工程封面：宣纸底、墨色书名、朱红印章与地泽临卦象" width="320" height="480">
+  </figure>
+  <div class="hero-text">
+    <p class="hero-kicker">《周易》现代转译工程 · 可检索站点</p>
+    <h1>把方法论内核，<br>接上现代认识工具</h1>
+    <p class="hero-sub">六十四卦逐一过手，每卦六节：训诂 → 语境 → 结构 → 现代转译 → 实践清单 → 卦际关联。
+    不神化为玄学，不贬为江湖术数——只做文本解读与方法论研究。</p>
+    <p class="hero-stats">64 卦全本 · 检验实例 111+ · 术语 400+ · 血统标注逐句可核</p>
+  </div>
+</section>
+
+<section class="search-section" id="search">
+  <h2 class="section-title">检索全书</h2>
+  <p class="section-lead">输入即搜：卦名、卦序、卦爻辞关键词、现代转译、实践清单、实例名都可以。</p>
+  <div class="search-box">
+    <input id="q" type="search" autocomplete="off" spellcheck="false"
+           placeholder="试试「临」「消长」「履霜」「FIFA」......" aria-label="全书检索">
+  </div>
+  <p class="search-status" id="search-status"></p>
+</section>
+
+<section class="clusters" id="clusters">
+  <h2 class="section-title">主题簇 · 按问题进入</h2>
+  <p class="section-lead">不必从乾卦顺序读起。点一条主线，卡片墙随之过滤。</p>
+  <div class="cluster-grid"><button class="cluster-chip" type="button" data-tag="%E8%B5%B7%E6%AD%A5%E7%BA%BF"><span class="cluster-name">起步</span><span class="cluster-count">10 卦</span><span class="cluster-desc">创业、开蒙、等待、止损——再接积蓄、颐养、险阻、上升、渐进</span></button><button class="cluster-chip" type="button" data-tag="%E7%BB%84%E7%BB%87%E9%A2%86%E5%AF%BC%E7%BA%BF"><span class="cluster-name">组织领导</span><span class="cluster-count">14 卦</span><span class="cluster-desc">感通、动员、结盟、谦抑——组织怎么带、人心怎么聚</span></button><button class="cluster-chip" type="button" data-tag="%E5%8F%98%E9%9D%A9%E8%BD%AC%E5%9E%8B%E7%BA%BF"><span class="cluster-name">变革转型</span><span class="cluster-count">13 卦</span><span class="cluster-desc">换轨、立制、治旧弊、成本与收益的承担方向</span></button><button class="cluster-chip" type="button" data-tag="%E5%A4%84%E5%A2%83%E5%88%A4%E6%96%AD%E7%BA%BF"><span class="cluster-name">处境判断</span><span class="cluster-count">23 卦</span><span class="cluster-desc">时位、承载、通塞、完成与未完成——形势怎么判</span></button><button class="cluster-chip" type="button" data-tag="%E8%B5%84%E6%BA%90%E7%BA%BF"><span class="cluster-name">资源线</span><span class="cluster-count">5 卦</span><span class="cluster-desc">减损、增益、小蓄、大有、盛极</span></button><button class="cluster-chip" type="button" data-tag="%E8%89%B0%E9%9A%BE%E7%BA%BF"><span class="cluster-name">艰难线</span><span class="cluster-count">4 卦</span><span class="cluster-desc">穷、阻、险、晦明——四种难法，四种守法</span></button><button class="cluster-chip" type="button" data-tag="%E8%BF%9B%E9%80%80%E7%BA%BF"><span class="cluster-name">进退线</span><span class="cluster-count">4 卦</span><span class="cluster-desc">退的梯度、盛的节制、进的台阶</span></button><button class="cluster-chip" type="button" data-tag="%E8%81%9A%E6%95%A3%E7%BA%BF"><span class="cluster-name">聚散线</span><span class="cluster-count">5 卦</span><span class="cluster-desc">聚人、散而后聚、同盟、内部治理、乖离求同</span></button><button class="cluster-chip" type="button" data-tag="%E4%BF%A1%E4%B8%8E%E5%BA%A6"><span class="cluster-name">信与度</span><span class="cluster-count">2 卦</span><span class="cluster-desc">孚是信，过是度，一对双尺</span></button></div>
+  <div class="cluster-grid sub"><button class="cluster-chip sub" type="button" data-tag="%E6%B6%88%E9%95%BF%E4%B8%BB%E7%BA%BF"><span class="cluster-name">消长主线</span><span class="cluster-count">5 卦</span><span class="cluster-desc">临→泰→否→剥→复：优势窗口的完整生命周期</span></button></div>
+</section>
+
+<section class="hexwall" id="hexagrams">
+  <h2 class="section-title">六十四卦 · 卡片墙</h2>
+  <p class="section-lead">按卦序 1-64 排列，卡片标主题标签；点进单卦读六节全文。</p>
+  <div class="card-grid" id="cards"><a class="card" href="hexagrams/01-qian.html" data-tags="处境判断线" data-text="1 乾 ䷀（乾上乾下） 自强不息与时机进退 处境判断线 1 乾 ䷀（乾上乾下） 自强不息与时机进退 处境判断线 01-qian">
+  <span class="card-top"><span class="card-num">1</span><span class="card-symbol">䷀</span></span>
+  <h3 class="card-name">乾</h3>
+  <p class="card-summary">自强不息与时机进退</p>
+  <p class="card-tags"><span class="tag">处境判断线</span></p>
+</a><a class="card" href="hexagrams/02-kun.html" data-tags="处境判断线" data-text="2 坤 ䷁（坤上坤下） 承载配合与底线 处境判断线 2 坤 ䷁（坤上坤下） 承载配合与底线 处境判断线 02-kun">
+  <span class="card-top"><span class="card-num">2</span><span class="card-symbol">䷁</span></span>
+  <h3 class="card-name">坤</h3>
+  <p class="card-summary">承载配合与底线</p>
+  <p class="card-tags"><span class="tag">处境判断线</span></p>
+</a><a class="card" href="hexagrams/03-tun.html" data-tags="起步线" data-text="3 屯 ䷂（坎上震下） 创业维艰 起步线 3 屯 ䷂（坎上震下） 创业维艰 起步线 03-tun">
+  <span class="card-top"><span class="card-num">3</span><span class="card-symbol">䷂</span></span>
+  <h3 class="card-name">屯</h3>
+  <p class="card-summary">创业维艰</p>
+  <p class="card-tags"><span class="tag">起步线</span></p>
+</a><a class="card" href="hexagrams/04-meng.html" data-tags="起步线" data-text="4 蒙 ䷃（艮上坎下） 教育启蒙 起步线 4 蒙 ䷃（艮上坎下） 教育启蒙 起步线 04-meng">
+  <span class="card-top"><span class="card-num">4</span><span class="card-symbol">䷃</span></span>
+  <h3 class="card-name">蒙</h3>
+  <p class="card-summary">教育启蒙</p>
+  <p class="card-tags"><span class="tag">起步线</span></p>
+</a><a class="card" href="hexagrams/05-xu.html" data-tags="起步线" data-text="5 水天需 ䷄（坎上乾下） 等待与时机 起步线 5 水天需 ䷄（坎上乾下） 等待与时机 起步线 05-xu">
+  <span class="card-top"><span class="card-num">5</span><span class="card-symbol">䷄</span></span>
+  <h3 class="card-name">水天需</h3>
+  <p class="card-summary">等待与时机</p>
+  <p class="card-tags"><span class="tag">起步线</span></p>
+</a><a class="card" href="hexagrams/06-song.html" data-tags="起步线" data-text="6 天水讼 ䷅（乾上坎下） 争端与止损 起步线 6 天水讼 ䷅（乾上坎下） 争端与止损 起步线 06-song">
+  <span class="card-top"><span class="card-num">6</span><span class="card-symbol">䷅</span></span>
+  <h3 class="card-name">天水讼</h3>
+  <p class="card-summary">争端与止损</p>
+  <p class="card-tags"><span class="tag">起步线</span></p>
+</a><a class="card" href="hexagrams/07-shi.html" data-tags="组织领导线" data-text="7 地水师 ䷆（坤上坎下） 动员组织与纪律 组织领导线 7 地水师 ䷆（坤上坎下） 动员组织与纪律 组织领导线 07-shi">
+  <span class="card-top"><span class="card-num">7</span><span class="card-symbol">䷆</span></span>
+  <h3 class="card-name">地水师</h3>
+  <p class="card-summary">动员组织与纪律</p>
+  <p class="card-tags"><span class="tag">组织领导线</span></p>
+</a><a class="card" href="hexagrams/08-bi.html" data-tags="组织领导线" data-text="8 水地比 ䷇（坎上坤下） 亲比与联盟 组织领导线 8 水地比 ䷇（坎上坤下） 亲比与联盟 组织领导线 08-bi">
+  <span class="card-top"><span class="card-num">8</span><span class="card-symbol">䷇</span></span>
+  <h3 class="card-name">水地比</h3>
+  <p class="card-summary">亲比与联盟</p>
+  <p class="card-tags"><span class="tag">组织领导线</span></p>
+</a><a class="card" href="hexagrams/09-xiaochu.html" data-tags="起步线 资源线" data-text="9 风天小畜 ䷈（巽上乾下） 小有积蓄与克制 起步线 资源线 9 风天小畜 ䷈（巽上乾下） 小有积蓄与克制 起步线 资源线 09-xiaochu">
+  <span class="card-top"><span class="card-num">9</span><span class="card-symbol">䷈</span></span>
+  <h3 class="card-name">风天小畜</h3>
+  <p class="card-summary">小有积蓄与克制</p>
+  <p class="card-tags"><span class="tag">起步线</span><span class="tag">资源线</span></p>
+</a><a class="card" href="hexagrams/10-lv.html" data-tags="" data-text="10 天泽履 ䷉（乾上兑下） 践履与风险秩序  10 天泽履 ䷉（乾上兑下） 践履与风险秩序  10-lv">
+  <span class="card-top"><span class="card-num">10</span><span class="card-symbol">䷉</span></span>
+  <h3 class="card-name">天泽履</h3>
+  <p class="card-summary">践履与风险秩序</p>
+  <p class="card-tags"></p>
+</a><a class="card" href="hexagrams/11-tai.html" data-tags="处境判断线 消长主线" data-text="11 地天泰 ䷊（坤上乾下） 通泰与居安思危 处境判断线 消长主线 11 地天泰 ䷊（坤上乾下） 通泰与居安思危 处境判断线 消长主线 11-tai">
+  <span class="card-top"><span class="card-num">11</span><span class="card-symbol">䷊</span></span>
+  <h3 class="card-name">地天泰</h3>
+  <p class="card-summary">通泰与居安思危</p>
+  <p class="card-tags"><span class="tag">处境判断线</span><span class="tag">消长主线</span></p>
+</a><a class="card" href="hexagrams/12-pi.html" data-tags="处境判断线 消长主线" data-text="12 天地否 ䷋（乾上坤下） 闭塞与守持待时 处境判断线 消长主线 12 天地否 ䷋（乾上坤下） 闭塞与守持待时 处境判断线 消长主线 12-pi">
+  <span class="card-top"><span class="card-num">12</span><span class="card-symbol">䷋</span></span>
+  <h3 class="card-name">天地否</h3>
+  <p class="card-summary">闭塞与守持待时</p>
+  <p class="card-tags"><span class="tag">处境判断线</span><span class="tag">消长主线</span></p>
+</a><a class="card" href="hexagrams/13-tongren.html" data-tags="组织领导线 聚散线" data-text="13 天火同人 ䷌（乾上离下） 协作与同盟 组织领导线 聚散线 13 天火同人 ䷌（乾上离下） 协作与同盟 组织领导线 聚散线 13-tongren">
+  <span class="card-top"><span class="card-num">13</span><span class="card-symbol">䷌</span></span>
+  <h3 class="card-name">天火同人</h3>
+  <p class="card-summary">协作与同盟</p>
+  <p class="card-tags"><span class="tag">组织领导线</span><span class="tag">聚散线</span></p>
+</a><a class="card" href="hexagrams/14-dayou.html" data-tags="组织领导线 资源线" data-text="14 火天大有 ䷍（离上乾下） 大有与治理 组织领导线 资源线 14 火天大有 ䷍（离上乾下） 大有与治理 组织领导线 资源线 14-dayou">
+  <span class="card-top"><span class="card-num">14</span><span class="card-symbol">䷍</span></span>
+  <h3 class="card-name">火天大有</h3>
+  <p class="card-summary">大有与治理</p>
+  <p class="card-tags"><span class="tag">组织领导线</span><span class="tag">资源线</span></p>
+</a><a class="card" href="hexagrams/15-qian.html" data-tags="组织领导线" data-text="15 地山谦 ䷎（坤上艮下） 谦抑与平衡 组织领导线 15 地山谦 ䷎（坤上艮下） 谦抑与平衡 组织领导线 15-qian">
+  <span class="card-top"><span class="card-num">15</span><span class="card-symbol">䷎</span></span>
+  <h3 class="card-name">地山谦</h3>
+  <p class="card-summary">谦抑与平衡</p>
+  <p class="card-tags"><span class="tag">组织领导线</span></p>
+</a><a class="card" href="hexagrams/16-yu.html" data-tags="组织领导线" data-text="16 雷地豫 ䷏（震上坤下） 预备与安逸 组织领导线 16 雷地豫 ䷏（震上坤下） 预备与安逸 组织领导线 16-yu">
+  <span class="card-top"><span class="card-num">16</span><span class="card-symbol">䷏</span></span>
+  <h3 class="card-name">雷地豫</h3>
+  <p class="card-summary">预备与安逸</p>
+  <p class="card-tags"><span class="tag">组织领导线</span></p>
+</a><a class="card" href="hexagrams/17-sui.html" data-tags="组织领导线" data-text="17 泽雷随 ䷐（兑上震下） 追随与随时 组织领导线 17 泽雷随 ䷐（兑上震下） 追随与随时 组织领导线 17-sui">
+  <span class="card-top"><span class="card-num">17</span><span class="card-symbol">䷐</span></span>
+  <h3 class="card-name">泽雷随</h3>
+  <p class="card-summary">追随与随时</p>
+  <p class="card-tags"><span class="tag">组织领导线</span></p>
+</a><a class="card" href="hexagrams/18-gu.html" data-tags="变革转型线" data-text="18 山风蛊 ䷑（艮上巽下） 整治积弊 变革转型线 18 山风蛊 ䷑（艮上巽下） 整治积弊 变革转型线 18-gu">
+  <span class="card-top"><span class="card-num">18</span><span class="card-symbol">䷑</span></span>
+  <h3 class="card-name">山风蛊</h3>
+  <p class="card-summary">整治积弊</p>
+  <p class="card-tags"><span class="tag">变革转型线</span></p>
+</a><a class="card" href="hexagrams/19-lin.html" data-tags="组织领导线 消长主线" data-text="19 地泽临 ䷒（坤上兑下） 治理感通 组织领导线 消长主线 19 地泽临 ䷒（坤上兑下） 治理感通 组织领导线 消长主线 19-lin">
+  <span class="card-top"><span class="card-num">19</span><span class="card-symbol">䷒</span></span>
+  <h3 class="card-name">地泽临</h3>
+  <p class="card-summary">治理感通</p>
+  <p class="card-tags"><span class="tag">组织领导线</span><span class="tag">消长主线</span></p>
+</a><a class="card" href="hexagrams/20-guan.html" data-tags="" data-text="20 风地观 ䷓（巽上坤下） 观察与示范  20 风地观 ䷓（巽上坤下） 观察与示范  20-guan">
+  <span class="card-top"><span class="card-num">20</span><span class="card-symbol">䷓</span></span>
+  <h3 class="card-name">风地观</h3>
+  <p class="card-summary">观察与示范</p>
+  <p class="card-tags"></p>
+</a><a class="card" href="hexagrams/21-shike.html" data-tags="变革转型线" data-text="21 火雷噬嗑 ䷔（离上震下） 咬合除梗与惩罚次序 变革转型线 21 火雷噬嗑 ䷔（离上震下） 咬合除梗与惩罚次序 变革转型线 21-shike">
+  <span class="card-top"><span class="card-num">21</span><span class="card-symbol">䷔</span></span>
+  <h3 class="card-name">火雷噬嗑</h3>
+  <p class="card-summary">咬合除梗与惩罚次序</p>
+  <p class="card-tags"><span class="tag">变革转型线</span></p>
+</a><a class="card" href="hexagrams/22-bi.html" data-tags="变革转型线" data-text="22 山火贲 ䷕（艮上离下） 文饰与实质 变革转型线 22 山火贲 ䷕（艮上离下） 文饰与实质 变革转型线 22-bi">
+  <span class="card-top"><span class="card-num">22</span><span class="card-symbol">䷕</span></span>
+  <h3 class="card-name">山火贲</h3>
+  <p class="card-summary">文饰与实质</p>
+  <p class="card-tags"><span class="tag">变革转型线</span></p>
+</a><a class="card" href="hexagrams/23-bo.html" data-tags="处境判断线 消长主线" data-text="23 山地剥 ䷖（艮上坤下） 剥落与止损 处境判断线 消长主线 23 山地剥 ䷖（艮上坤下） 剥落与止损 处境判断线 消长主线 23-bo">
+  <span class="card-top"><span class="card-num">23</span><span class="card-symbol">䷖</span></span>
+  <h3 class="card-name">山地剥</h3>
+  <p class="card-summary">剥落与止损</p>
+  <p class="card-tags"><span class="tag">处境判断线</span><span class="tag">消长主线</span></p>
+</a><a class="card" href="hexagrams/24-fu.html" data-tags="处境判断线 消长主线" data-text="24 地雷复 ䷗（坤上震下） 复归与重启 处境判断线 消长主线 24 地雷复 ䷗（坤上震下） 复归与重启 处境判断线 消长主线 24-fu">
+  <span class="card-top"><span class="card-num">24</span><span class="card-symbol">䷗</span></span>
+  <h3 class="card-name">地雷复</h3>
+  <p class="card-summary">复归与重启</p>
+  <p class="card-tags"><span class="tag">处境判断线</span><span class="tag">消长主线</span></p>
+</a><a class="card" href="hexagrams/25-wuwang.html" data-tags="处境判断线" data-text="25 天雷无妄 ䷘（乾上震下） 守正不妄为与无妄之灾的应对 处境判断线 25 天雷无妄 ䷘（乾上震下） 守正不妄为与无妄之灾的应对 处境判断线 25-wuwang">
+  <span class="card-top"><span class="card-num">25</span><span class="card-symbol">䷘</span></span>
+  <h3 class="card-name">天雷无妄</h3>
+  <p class="card-summary">守正不妄为与无妄之灾的应对</p>
+  <p class="card-tags"><span class="tag">处境判断线</span></p>
+</a><a class="card" href="hexagrams/26-dachu.html" data-tags="起步线" data-text="26 山天大畜 ䷙（艮上乾下） 大积蓄与养贤设防 起步线 26 山天大畜 ䷙（艮上乾下） 大积蓄与养贤设防 起步线 26-dachu">
+  <span class="card-top"><span class="card-num">26</span><span class="card-symbol">䷙</span></span>
+  <h3 class="card-name">山天大畜</h3>
+  <p class="card-summary">大积蓄与养贤设防</p>
+  <p class="card-tags"><span class="tag">起步线</span></p>
+</a><a class="card" href="hexagrams/27-yi.html" data-tags="起步线" data-text="27 山雷颐 ䷚（艮上震下） 颐养与节欲 起步线 27 山雷颐 ䷚（艮上震下） 颐养与节欲 起步线 27-yi">
+  <span class="card-top"><span class="card-num">27</span><span class="card-symbol">䷚</span></span>
+  <h3 class="card-name">山雷颐</h3>
+  <p class="card-summary">颐养与节欲</p>
+  <p class="card-tags"><span class="tag">起步线</span></p>
+</a><a class="card" href="hexagrams/28-daguo.html" data-tags="处境判断线" data-text="28 泽风大过 ䷛（兑上巽下） 非常之时的非常之举 处境判断线 28 泽风大过 ䷛（兑上巽下） 非常之时的非常之举 处境判断线 28-daguo">
+  <span class="card-top"><span class="card-num">28</span><span class="card-symbol">䷛</span></span>
+  <h3 class="card-name">泽风大过</h3>
+  <p class="card-summary">非常之时的非常之举</p>
+  <p class="card-tags"><span class="tag">处境判断线</span></p>
+</a><a class="card" href="hexagrams/29-kan.html" data-tags="处境判断线 艰难线" data-text="29 坎为水 ䷜（坎上坎下） 重险与行险有孚 处境判断线 艰难线 29 坎为水 ䷜（坎上坎下） 重险与行险有孚 处境判断线 艰难线 29-kan">
+  <span class="card-top"><span class="card-num">29</span><span class="card-symbol">䷜</span></span>
+  <h3 class="card-name">坎为水</h3>
+  <p class="card-summary">重险与行险有孚</p>
+  <p class="card-tags"><span class="tag">处境判断线</span><span class="tag">艰难线</span></p>
+</a><a class="card" href="hexagrams/30-li.html" data-tags="处境判断线" data-text="30 离为火 ䷝（离上离下） 依附与光明 处境判断线 30 离为火 ䷝（离上离下） 依附与光明 处境判断线 30-li">
+  <span class="card-top"><span class="card-num">30</span><span class="card-symbol">䷝</span></span>
+  <h3 class="card-name">离为火</h3>
+  <p class="card-summary">依附与光明</p>
+  <p class="card-tags"><span class="tag">处境判断线</span></p>
+</a><a class="card" href="hexagrams/31-xian.html" data-tags="组织领导线" data-text="31 泽山咸 ䷞（兑上艮下） 感应与共情 组织领导线 31 泽山咸 ䷞（兑上艮下） 感应与共情 组织领导线 31-xian">
+  <span class="card-top"><span class="card-num">31</span><span class="card-symbol">䷞</span></span>
+  <h3 class="card-name">泽山咸</h3>
+  <p class="card-summary">感应与共情</p>
+  <p class="card-tags"><span class="tag">组织领导线</span></p>
+</a><a class="card" href="hexagrams/32-heng.html" data-tags="" data-text="32 雷风恒 ䷟（震上巽下） 恒久与守变  32 雷风恒 ䷟（震上巽下） 恒久与守变  32-heng">
+  <span class="card-top"><span class="card-num">32</span><span class="card-symbol">䷟</span></span>
+  <h3 class="card-name">雷风恒</h3>
+  <p class="card-summary">恒久与守变</p>
+  <p class="card-tags"></p>
+</a><a class="card" href="hexagrams/33-dun.html" data-tags="处境判断线 进退线" data-text="33 天山遯（遁） ䷠（乾上艮下） 退避与战略撤退 处境判断线 进退线 33 天山遯（遁） ䷠（乾上艮下） 退避与战略撤退 处境判断线 进退线 33-dun">
+  <span class="card-top"><span class="card-num">33</span><span class="card-symbol">䷠</span></span>
+  <h3 class="card-name">天山遯（遁）</h3>
+  <p class="card-summary">退避与战略撤退</p>
+  <p class="card-tags"><span class="tag">处境判断线</span><span class="tag">进退线</span></p>
+</a><a class="card" href="hexagrams/34-dazhuang.html" data-tags="处境判断线 进退线" data-text="34 雷天大壮 ䷡（震上乾下） 强盛与节制 处境判断线 进退线 34 雷天大壮 ䷡（震上乾下） 强盛与节制 处境判断线 进退线 34-dazhuang">
+  <span class="card-top"><span class="card-num">34</span><span class="card-symbol">䷡</span></span>
+  <h3 class="card-name">雷天大壮</h3>
+  <p class="card-summary">强盛与节制</p>
+  <p class="card-tags"><span class="tag">处境判断线</span><span class="tag">进退线</span></p>
+</a><a class="card" href="hexagrams/35-jin.html" data-tags="处境判断线 进退线" data-text="35 火地晋 ䷢（离上坤下） 进取与晋升 处境判断线 进退线 35 火地晋 ䷢（离上坤下） 进取与晋升 处境判断线 进退线 35-jin">
+  <span class="card-top"><span class="card-num">35</span><span class="card-symbol">䷢</span></span>
+  <h3 class="card-name">火地晋</h3>
+  <p class="card-summary">进取与晋升</p>
+  <p class="card-tags"><span class="tag">处境判断线</span><span class="tag">进退线</span></p>
+</a><a class="card" href="hexagrams/36-mingyi.html" data-tags="处境判断线 艰难线" data-text="36 地火明夷 ䷣（坤上离下） 光明受损期的守持 处境判断线 艰难线 36 地火明夷 ䷣（坤上离下） 光明受损期的守持 处境判断线 艰难线 36-mingyi">
+  <span class="card-top"><span class="card-num">36</span><span class="card-symbol">䷣</span></span>
+  <h3 class="card-name">地火明夷</h3>
+  <p class="card-summary">光明受损期的守持</p>
+  <p class="card-tags"><span class="tag">处境判断线</span><span class="tag">艰难线</span></p>
+</a><a class="card" href="hexagrams/37-jiaren.html" data-tags="组织领导线 聚散线" data-text="37 风火家人 ䷤（巽上离下） 内部治理 组织领导线 聚散线 37 风火家人 ䷤（巽上离下） 内部治理 组织领导线 聚散线 37-jiaren">
+  <span class="card-top"><span class="card-num">37</span><span class="card-symbol">䷤</span></span>
+  <h3 class="card-name">风火家人</h3>
+  <p class="card-summary">内部治理</p>
+  <p class="card-tags"><span class="tag">组织领导线</span><span class="tag">聚散线</span></p>
+</a><a class="card" href="hexagrams/38-kui.html" data-tags="变革转型线 聚散线" data-text="38 火泽睽 ䷥（离上兑下） 睽违与求同 变革转型线 聚散线 38 火泽睽 ䷥（离上兑下） 睽违与求同 变革转型线 聚散线 38-kui">
+  <span class="card-top"><span class="card-num">38</span><span class="card-symbol">䷥</span></span>
+  <h3 class="card-name">火泽睽</h3>
+  <p class="card-summary">睽违与求同</p>
+  <p class="card-tags"><span class="tag">变革转型线</span><span class="tag">聚散线</span></p>
+</a><a class="card" href="hexagrams/39-jian.html" data-tags="起步线 艰难线" data-text="39 水山蹇 ䷦（坎上艮下） 险阻与反身修德 起步线 艰难线 39 水山蹇 ䷦（坎上艮下） 险阻与反身修德 起步线 艰难线 39-jian">
+  <span class="card-top"><span class="card-num">39</span><span class="card-symbol">䷦</span></span>
+  <h3 class="card-name">水山蹇</h3>
+  <p class="card-summary">险阻与反身修德</p>
+  <p class="card-tags"><span class="tag">起步线</span><span class="tag">艰难线</span></p>
+</a><a class="card" href="hexagrams/40-jie.html" data-tags="变革转型线" data-text="40 雷水解 ䷧（震上坎下） 解除险难与善后 变革转型线 40 雷水解 ䷧（震上坎下） 解除险难与善后 变革转型线 40-jie">
+  <span class="card-top"><span class="card-num">40</span><span class="card-symbol">䷧</span></span>
+  <h3 class="card-name">雷水解</h3>
+  <p class="card-summary">解除险难与善后</p>
+  <p class="card-tags"><span class="tag">变革转型线</span></p>
+</a><a class="card" href="hexagrams/41-sun.html" data-tags="变革转型线 资源线" data-text="41 山泽损 ䷨（艮上兑下） 减损与成本承担 变革转型线 资源线 41 山泽损 ䷨（艮上兑下） 减损与成本承担 变革转型线 资源线 41-sun">
+  <span class="card-top"><span class="card-num">41</span><span class="card-symbol">䷨</span></span>
+  <h3 class="card-name">山泽损</h3>
+  <p class="card-summary">减损与成本承担</p>
+  <p class="card-tags"><span class="tag">变革转型线</span><span class="tag">资源线</span></p>
+</a><a class="card" href="hexagrams/42-yi.html" data-tags="变革转型线 资源线" data-text="42 风雷益 ䷩（巽上震下） 增益与施予下放 变革转型线 资源线 42 风雷益 ䷩（巽上震下） 增益与施予下放 变革转型线 资源线 42-yi">
+  <span class="card-top"><span class="card-num">42</span><span class="card-symbol">䷩</span></span>
+  <h3 class="card-name">风雷益</h3>
+  <p class="card-summary">增益与施予下放</p>
+  <p class="card-tags"><span class="tag">变革转型线</span><span class="tag">资源线</span></p>
+</a><a class="card" href="hexagrams/43-guai.html" data-tags="变革转型线" data-text="43 泽天夬 ䷪（兑上乾下） 决断与清除积弊 变革转型线 43 泽天夬 ䷪（兑上乾下） 决断与清除积弊 变革转型线 43-guai">
+  <span class="card-top"><span class="card-num">43</span><span class="card-symbol">䷪</span></span>
+  <h3 class="card-name">泽天夬</h3>
+  <p class="card-summary">决断与清除积弊</p>
+  <p class="card-tags"><span class="tag">变革转型线</span></p>
+</a><a class="card" href="hexagrams/44-gou.html" data-tags="" data-text="44 天风姤 ䷫（乾上巽下） 相遇与防微  44 天风姤 ䷫（乾上巽下） 相遇与防微  44-gou">
+  <span class="card-top"><span class="card-num">44</span><span class="card-symbol">䷫</span></span>
+  <h3 class="card-name">天风姤</h3>
+  <p class="card-summary">相遇与防微</p>
+  <p class="card-tags"></p>
+</a><a class="card" href="hexagrams/45-cui.html" data-tags="组织领导线 聚散线" data-text="45 泽地萃 ䷬（兑上坤下） 聚合与凝聚 组织领导线 聚散线 45 泽地萃 ䷬（兑上坤下） 聚合与凝聚 组织领导线 聚散线 45-cui">
+  <span class="card-top"><span class="card-num">45</span><span class="card-symbol">䷬</span></span>
+  <h3 class="card-name">泽地萃</h3>
+  <p class="card-summary">聚合与凝聚</p>
+  <p class="card-tags"><span class="tag">组织领导线</span><span class="tag">聚散线</span></p>
+</a><a class="card" href="hexagrams/46-sheng.html" data-tags="起步线" data-text="46 地风升 ䷭（坤上巽下） 上升与台阶式成长 起步线 46 地风升 ䷭（坤上巽下） 上升与台阶式成长 起步线 46-sheng">
+  <span class="card-top"><span class="card-num">46</span><span class="card-symbol">䷭</span></span>
+  <h3 class="card-name">地风升</h3>
+  <p class="card-summary">上升与台阶式成长</p>
+  <p class="card-tags"><span class="tag">起步线</span></p>
+</a><a class="card" href="hexagrams/47-kun.html" data-tags="处境判断线 艰难线" data-text="47 泽水困 ䷮（兑上坎下） 困境与守持出口 处境判断线 艰难线 47 泽水困 ䷮（兑上坎下） 困境与守持出口 处境判断线 艰难线 47-kun">
+  <span class="card-top"><span class="card-num">47</span><span class="card-symbol">䷮</span></span>
+  <h3 class="card-name">泽水困</h3>
+  <p class="card-summary">困境与守持出口</p>
+  <p class="card-tags"><span class="tag">处境判断线</span><span class="tag">艰难线</span></p>
+</a><a class="card" href="hexagrams/48-jing.html" data-tags="变革转型线" data-text="48 水风井 ䷯（坎上巽下） 供给体系与公共品 变革转型线 48 水风井 ䷯（坎上巽下） 供给体系与公共品 变革转型线 48-jing">
+  <span class="card-top"><span class="card-num">48</span><span class="card-symbol">䷯</span></span>
+  <h3 class="card-name">水风井</h3>
+  <p class="card-summary">供给体系与公共品</p>
+  <p class="card-tags"><span class="tag">变革转型线</span></p>
+</a><a class="card" href="hexagrams/49-ge.html" data-tags="变革转型线" data-text="49 泽火革 ䷰（兑上离下） 变革的方法 变革转型线 49 泽火革 ䷰（兑上离下） 变革的方法 变革转型线 49-ge">
+  <span class="card-top"><span class="card-num">49</span><span class="card-symbol">䷰</span></span>
+  <h3 class="card-name">泽火革</h3>
+  <p class="card-summary">变革的方法</p>
+  <p class="card-tags"><span class="tag">变革转型线</span></p>
+</a><a class="card" href="hexagrams/50-ding.html" data-tags="变革转型线" data-text="50 火风鼎 ䷱（离上巽下） 建制立新 变革转型线 50 火风鼎 ䷱（离上巽下） 建制立新 变革转型线 50-ding">
+  <span class="card-top"><span class="card-num">50</span><span class="card-symbol">䷱</span></span>
+  <h3 class="card-name">火风鼎</h3>
+  <p class="card-summary">建制立新</p>
+  <p class="card-tags"><span class="tag">变革转型线</span></p>
+</a><a class="card" href="hexagrams/51-zhen.html" data-tags="处境判断线" data-text="51 震为雷 ䷲（震上震下） 震动应对 处境判断线 51 震为雷 ䷲（震上震下） 震动应对 处境判断线 51-zhen">
+  <span class="card-top"><span class="card-num">51</span><span class="card-symbol">䷲</span></span>
+  <h3 class="card-name">震为雷</h3>
+  <p class="card-summary">震动应对</p>
+  <p class="card-tags"><span class="tag">处境判断线</span></p>
+</a><a class="card" href="hexagrams/52-gen.html" data-tags="处境判断线" data-text="52 艮为山 ䷳（艮上艮下） 知止与边界 处境判断线 52 艮为山 ䷳（艮上艮下） 知止与边界 处境判断线 52-gen">
+  <span class="card-top"><span class="card-num">52</span><span class="card-symbol">䷳</span></span>
+  <h3 class="card-name">艮为山</h3>
+  <p class="card-summary">知止与边界</p>
+  <p class="card-tags"><span class="tag">处境判断线</span></p>
+</a><a class="card" href="hexagrams/53-jian.html" data-tags="起步线 进退线" data-text="53 风山渐 ䷴（巽上艮下） 渐进与次序 起步线 进退线 53 风山渐 ䷴（巽上艮下） 渐进与次序 起步线 进退线 53-jian">
+  <span class="card-top"><span class="card-num">53</span><span class="card-symbol">䷴</span></span>
+  <h3 class="card-name">风山渐</h3>
+  <p class="card-summary">渐进与次序</p>
+  <p class="card-tags"><span class="tag">起步线</span><span class="tag">进退线</span></p>
+</a><a class="card" href="hexagrams/54-guimei.html" data-tags="处境判断线" data-text="54 雷泽归妹 ䷵（震上兑下） 错位配合 处境判断线 54 雷泽归妹 ䷵（震上兑下） 错位配合 处境判断线 54-guimei">
+  <span class="card-top"><span class="card-num">54</span><span class="card-symbol">䷵</span></span>
+  <h3 class="card-name">雷泽归妹</h3>
+  <p class="card-summary">错位配合</p>
+  <p class="card-tags"><span class="tag">处境判断线</span></p>
+</a><a class="card" href="hexagrams/55-feng.html" data-tags="处境判断线 资源线" data-text="55 雷火丰 ䷶（震上离下） 盛大与蔽障 处境判断线 资源线 55 雷火丰 ䷶（震上离下） 盛大与蔽障 处境判断线 资源线 55-feng">
+  <span class="card-top"><span class="card-num">55</span><span class="card-symbol">䷶</span></span>
+  <h3 class="card-name">雷火丰</h3>
+  <p class="card-summary">盛大与蔽障</p>
+  <p class="card-tags"><span class="tag">处境判断线</span><span class="tag">资源线</span></p>
+</a><a class="card" href="hexagrams/56-lv.html" data-tags="处境判断线" data-text="56 火山旅 ䷷（离上艮下） 羁旅与客场生存 处境判断线 56 火山旅 ䷷（离上艮下） 羁旅与客场生存 处境判断线 56-lv">
+  <span class="card-top"><span class="card-num">56</span><span class="card-symbol">䷷</span></span>
+  <h3 class="card-name">火山旅</h3>
+  <p class="card-summary">羁旅与客场生存</p>
+  <p class="card-tags"><span class="tag">处境判断线</span></p>
+</a><a class="card" href="hexagrams/57-xun.html" data-tags="组织领导线" data-text="57 巽为风 ䷸（巽上巽下） 渗透与申命 组织领导线 57 巽为风 ䷸（巽上巽下） 渗透与申命 组织领导线 57-xun">
+  <span class="card-top"><span class="card-num">57</span><span class="card-symbol">䷸</span></span>
+  <h3 class="card-name">巽为风</h3>
+  <p class="card-summary">渗透与申命</p>
+  <p class="card-tags"><span class="tag">组织领导线</span></p>
+</a><a class="card" href="hexagrams/58-dui.html" data-tags="组织领导线" data-text="58 兑为泽 ䷹（兑上兑下） 欣悦与说服 组织领导线 58 兑为泽 ䷹（兑上兑下） 欣悦与说服 组织领导线 58-dui">
+  <span class="card-top"><span class="card-num">58</span><span class="card-symbol">䷹</span></span>
+  <h3 class="card-name">兑为泽</h3>
+  <p class="card-summary">欣悦与说服</p>
+  <p class="card-tags"><span class="tag">组织领导线</span></p>
+</a><a class="card" href="hexagrams/59-huan.html" data-tags="变革转型线 聚散线" data-text="59 风水涣 ䷺（巽上坎下） 涣散与重聚 变革转型线 聚散线 59 风水涣 ䷺（巽上坎下） 涣散与重聚 变革转型线 聚散线 59-huan">
+  <span class="card-top"><span class="card-num">59</span><span class="card-symbol">䷺</span></span>
+  <h3 class="card-name">风水涣</h3>
+  <p class="card-summary">涣散与重聚</p>
+  <p class="card-tags"><span class="tag">变革转型线</span><span class="tag">聚散线</span></p>
+</a><a class="card" href="hexagrams/60-jie.html" data-tags="变革转型线" data-text="60 水泽节 ䷻（坎上兑下） 节制与制度 变革转型线 60 水泽节 ䷻（坎上兑下） 节制与制度 变革转型线 60-jie">
+  <span class="card-top"><span class="card-num">60</span><span class="card-symbol">䷻</span></span>
+  <h3 class="card-name">水泽节</h3>
+  <p class="card-summary">节制与制度</p>
+  <p class="card-tags"><span class="tag">变革转型线</span></p>
+</a><a class="card" href="hexagrams/61-zhongfu.html" data-tags="组织领导线 信与度" data-text="61 风泽中孚 ䷼（巽上兑下） 信任与可信信号 组织领导线 信与度 61 风泽中孚 ䷼（巽上兑下） 信任与可信信号 组织领导线 信与度 61-zhongfu">
+  <span class="card-top"><span class="card-num">61</span><span class="card-symbol">䷼</span></span>
+  <h3 class="card-name">风泽中孚</h3>
+  <p class="card-summary">信任与可信信号</p>
+  <p class="card-tags"><span class="tag">组织领导线</span><span class="tag">信与度</span></p>
+</a><a class="card" href="hexagrams/62-xiaoguo.html" data-tags="处境判断线 信与度" data-text="62 雷山小过 ䷽（震上艮下） 小过与尺度 处境判断线 信与度 62 雷山小过 ䷽（震上艮下） 小过与尺度 处境判断线 信与度 62-xiaoguo">
+  <span class="card-top"><span class="card-num">62</span><span class="card-symbol">䷽</span></span>
+  <h3 class="card-name">雷山小过</h3>
+  <p class="card-summary">小过与尺度</p>
+  <p class="card-tags"><span class="tag">处境判断线</span><span class="tag">信与度</span></p>
+</a><a class="card" href="hexagrams/63-jiji.html" data-tags="处境判断线" data-text="63 水火既济 ䷾（坎上离下） 完成态的守成 处境判断线 63 水火既济 ䷾（坎上离下） 完成态的守成 处境判断线 63-jiji">
+  <span class="card-top"><span class="card-num">63</span><span class="card-symbol">䷾</span></span>
+  <h3 class="card-name">水火既济</h3>
+  <p class="card-summary">完成态的守成</p>
+  <p class="card-tags"><span class="tag">处境判断线</span></p>
+</a><a class="card" href="hexagrams/64-weiji.html" data-tags="处境判断线" data-text="64 火水未济 ䷿（离上坎下） 未成态的收束与再出发 处境判断线 64 火水未济 ䷿（离上坎下） 未成态的收束与再出发 处境判断线 64-weiji">
+  <span class="card-top"><span class="card-num">64</span><span class="card-symbol">䷿</span></span>
+  <h3 class="card-name">火水未济</h3>
+  <p class="card-summary">未成态的收束与再出发</p>
+  <p class="card-tags"><span class="tag">处境判断线</span></p>
+</a></div>
+  <p class="empty-state" id="cards-empty" hidden>未命中——试试「消长」「艰难」「信任」等主题词</p>
+</section>
+
+<section class="results-section" id="results-section">
+  <h2 class="section-title">全文检索结果</h2>
+  <div id="results"><p class="empty-state">上方输入关键词，这里显示命中的页面、片段与跳转。</p></div>
+</section>
+
+<section class="entries" id="entries">
+  <h2 class="section-title">书前书后 · 四个入口</h2>
+  <div class="entry-list">
+    <a class="entry" href="foreword.html"><span class="entry-name">序言</span><span class="entry-desc">把方法论内核接上现代认识工具——缘起、主张、来历</span></a>
+    <a class="entry" href="guide.html"><span class="entry-name">导读</span><span class="entry-desc">怎么读这本书：六节模板、三遍阅读法、主题簇、自检清单</span></a>
+    <a class="entry" href="glossary.html"><span class="entry-name">术语表</span><span class="entry-desc">易学概念 ↔ 现代概念对照，400+ 条，标注血统类型</span></a>
+    <a class="entry" href="examples.html"><span class="entry-name">实例索引</span><span class="entry-desc">111+ 条真实可溯源现代实例——检验材料，不是预测论据</span></a>
+  </div>
+</section>
+
+</main>
+<footer class="site-footer">
+  <p class="footer-disclaimer">⚠️ 反对迷信占卜，仅解读思想——本项目不做任何吉凶预测与命运占断，只做文本解读与方法论研究</p>
+  <p class="footer-meta">《周易》现代转译工程 · 六十四卦现代转译 ·
+    <a href="https://github.com/if0x522/new_yi">github.com/if0x522/new_yi</a> ·
+    纯静态站点，可离线阅读</p>
+</footer>
+<script src="assets/site.js"></script>
+</body>
+</html>

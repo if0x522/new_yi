@@ -1,0 +1,430 @@
+/* 《周易》现代转译 · 素雅纸感学术小册子 */
+:root {
+  --paper: #F7F3E8;
+  --paper-deep: #EFE8D4;
+  --ink: #33302A;
+  --ink-soft: #6E675B;
+  --vermilion: #B03A2E;
+  --line: #D9CDB2;
+  --serif: "Noto Serif CJK SC", "Source Han Serif SC", "Songti SC", "STSong",
+           "SimSun", "Noto Serif", Georgia, serif;
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--serif);
+  font-size: 17px;
+  line-height: 1.85;
+  text-rendering: optimizeLegibility;
+}
+/* -- 背景平铺斜向水印（透明度 0.05 ≤ 0.06，不干扰阅读）-- */
+.watermark-layer {
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  pointer-events: none;
+  background-repeat: repeat;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='260' height='180'%3E%3Ctext x='-10' y='110' transform='rotate(-24 0 110)' font-family='serif' font-size='15' fill='%2333302A' fill-opacity='0.05'%3E%E5%8F%8D%E5%AF%B9%E8%BF%B7%E4%BF%A1%E5%8D%9C%E5%8D%A0%20%E4%BB%85%E8%A7%A3%E8%AF%BB%E6%80%9D%E6%83%B3%3C/text%3E%3C/svg%3E");
+}
+.site-header, .disclaimer-bar, .page, .site-footer {
+  position: relative;
+  z-index: 1;
+}
+a { color: var(--ink); text-decoration: none; }
+a:hover { color: var(--vermilion); }
+img { max-width: 100%; height: auto; }
+
+/* -- 页头 -- */
+.site-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 1.1rem clamp(1.1rem, 4vw, 3rem);
+  border-bottom: 1px solid var(--line);
+}
+.brand {
+  font-size: 1.02rem;
+  letter-spacing: 0.12em;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.55rem;
+}
+.brand-seal {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.75rem;
+  height: 1.75rem;
+  background: var(--vermilion);
+  color: var(--paper);
+  font-size: 0.95rem;
+  letter-spacing: 0;
+  border-radius: 2px;
+}
+.mini-search { display: flex; gap: 0.45rem; }
+.mini-search input {
+  width: clamp(9rem, 26vw, 15rem);
+  padding: 0.42rem 0.75rem;
+  border: 1px solid var(--line);
+  background: rgba(255, 255, 255, 0.45);
+  font: inherit;
+  font-size: 0.9rem;
+  color: var(--ink);
+  border-radius: 2px;
+}
+.mini-search button {
+  padding: 0.42rem 0.9rem;
+  border: 1px solid var(--vermilion);
+  background: transparent;
+  color: var(--vermilion);
+  font: inherit;
+  font-size: 0.9rem;
+  cursor: pointer;
+  border-radius: 2px;
+}
+.mini-search button:hover { background: var(--vermilion); color: var(--paper); }
+
+/* -- 固定声明条（每页、显眼、打印保留）-- */
+.disclaimer-bar {
+  margin: 0;
+  padding: 0.55rem clamp(1.1rem, 4vw, 3rem);
+  background: var(--paper-deep);
+  border-bottom: 1px solid var(--line);
+  color: var(--vermilion);
+  font-size: 0.92rem;
+  letter-spacing: 0.03em;
+}
+
+/* -- 页面容器 -- */
+.page {
+  max-width: 68rem;
+  margin: 0 auto;
+  padding: 2.4rem clamp(1.1rem, 4vw, 3rem) 3.5rem;
+}
+.section-title {
+  font-size: 1.35rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  margin: 2.8rem 0 0.4rem;
+}
+.section-lead { color: var(--ink-soft); margin: 0 0 1.4rem; }
+
+/* -- 首页 hero：不对称构图 -- */
+.hero {
+  display: grid;
+  grid-template-columns: minmax(0, 0.9fr) minmax(0, 1.6fr);
+  gap: clamp(1.5rem, 5vw, 4rem);
+  align-items: center;
+  padding-bottom: 1rem;
+}
+.hero-cover img {
+  width: 100%;
+  max-width: 21rem;
+  border: 1px solid var(--line);
+  box-shadow: 0.7rem 0.7rem 0 rgba(51, 48, 42, 0.07);
+}
+.hero-kicker {
+  color: var(--vermilion);
+  letter-spacing: 0.18em;
+  font-size: 0.92rem;
+  margin: 0 0 0.8rem;
+}
+.hero h1 {
+  font-size: clamp(2rem, 5.2vw, 3.15rem);
+  line-height: 1.35;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  margin: 0 0 1.1rem;
+}
+.hero-sub { margin: 0 0 1.2rem; max-width: 34rem; }
+.hero-stats { color: var(--ink-soft); font-size: 0.92rem; letter-spacing: 0.05em; margin: 0; }
+
+/* -- 搜索 -- */
+.search-box input {
+  width: 100%;
+  padding: 1.05rem 1.3rem;
+  font: inherit;
+  font-size: 1.25rem;
+  color: var(--ink);
+  background: rgba(255, 255, 255, 0.5);
+  border: 1px solid var(--ink-soft);
+  border-radius: 3px;
+  outline: none;
+}
+.search-box input:focus {
+  border-color: var(--vermilion);
+  box-shadow: 0 0 0 3px rgba(176, 58, 46, 0.12);
+}
+.search-status { color: var(--ink-soft); font-size: 0.92rem; min-height: 1.5em; margin: 0.8rem 0 0; }
+.search-status strong { color: var(--vermilion); font-weight: 600; }
+
+/* -- 主题簇 -- */
+.cluster-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(15.5rem, 1fr));
+  gap: 0.85rem;
+  margin-bottom: 0.85rem;
+}
+.cluster-chip {
+  text-align: left;
+  font: inherit;
+  cursor: pointer;
+  padding: 0.85rem 1.05rem;
+  background: rgba(255, 255, 255, 0.4);
+  border: 1px solid var(--line);
+  border-left: 3px solid var(--vermilion);
+  border-radius: 2px;
+  color: var(--ink);
+  transition: background 0.18s ease, border-color 0.18s ease;
+}
+.cluster-chip:hover { background: rgba(255, 255, 255, 0.85); }
+.cluster-chip.active { border-color: var(--vermilion); background: rgba(176, 58, 46, 0.08); }
+.cluster-chip.sub { border-left-color: var(--ink-soft); }
+.cluster-name { display: block; font-size: 1.05rem; letter-spacing: 0.06em; }
+.cluster-count { color: var(--vermilion); font-size: 0.82rem; letter-spacing: 0.08em; }
+.cluster-desc { display: block; color: var(--ink-soft); font-size: 0.85rem; line-height: 1.65; margin-top: 0.25rem; }
+
+/* -- 卡片墙（编辑感：多列瀑布式，克制）-- */
+.card-grid {
+  column-count: 3;
+  column-gap: 1.15rem;
+}
+.card {
+  display: block;
+  break-inside: avoid;
+  margin: 0 0 1.15rem;
+  padding: 1.15rem 1.25rem 1.05rem;
+  background: rgba(255, 255, 255, 0.42);
+  border: 1px solid var(--line);
+  border-radius: 3px;
+  transition: transform 0.18s ease, border-color 0.18s ease, background 0.18s ease;
+}
+.card:hover {
+  transform: translateY(-2px);
+  border-color: var(--vermilion);
+  background: rgba(255, 255, 255, 0.8);
+  color: var(--ink);
+}
+.card-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  color: var(--ink-soft);
+}
+.card-num { letter-spacing: 0.14em; font-size: 0.88rem; }
+.card-symbol { font-size: 1.15rem; }
+.card-name { margin: 0.35rem 0 0.25rem; font-size: 1.22rem; letter-spacing: 0.07em; }
+.card-summary { margin: 0 0 0.65rem; color: var(--ink-soft); font-size: 0.93rem; line-height: 1.7; }
+.card-tags { margin: 0; display: flex; flex-wrap: wrap; gap: 0.35rem; }
+
+.tag {
+  display: inline-block;
+  padding: 0.1rem 0.55rem;
+  border: 1px solid var(--line);
+  color: var(--ink-soft);
+  font-size: 0.78rem;
+  letter-spacing: 0.06em;
+  border-radius: 2px;
+}
+a.tag:hover { border-color: var(--vermilion); color: var(--vermilion); }
+
+.empty-state {
+  color: var(--ink-soft);
+  font-style: italic;
+  padding: 1.5rem 0;
+  margin: 0;
+}
+
+/* -- 检索结果 -- */
+.result-item {
+  padding: 1.05rem 0 1.05rem 1.15rem;
+  border-left: 2px solid var(--line);
+  margin-bottom: 0.8rem;
+}
+.result-item:hover { border-left-color: var(--vermilion); }
+.result-title { margin: 0 0 0.3rem; font-size: 1.08rem; }
+.result-title a { color: var(--ink); }
+.result-title a:hover { color: var(--vermilion); }
+.result-snippet { margin: 0; color: var(--ink-soft); font-size: 0.94rem; line-height: 1.75; }
+mark {
+  background: rgba(176, 58, 46, 0.14);
+  color: var(--vermilion);
+  padding: 0 0.12em;
+  border-radius: 2px;
+}
+
+/* -- 四入口 -- */
+.entry-list { border-top: 1px solid var(--line); }
+.entry {
+  display: grid;
+  grid-template-columns: minmax(5.5rem, 0.4fr) minmax(0, 1.6fr);
+  gap: 1.2rem;
+  align-items: baseline;
+  padding: 1.15rem 0.2rem;
+  border-bottom: 1px solid var(--line);
+  transition: background 0.18s ease, padding-left 0.18s ease;
+}
+.entry:hover { background: rgba(255, 255, 255, 0.55); padding-left: 0.75rem; color: var(--ink); }
+.entry-name { font-size: 1.18rem; letter-spacing: 0.12em; }
+.entry-desc { color: var(--ink-soft); font-size: 0.95rem; }
+
+/* -- 卦页 -- */
+.hex-head { border-bottom: 1px solid var(--line); padding-bottom: 1.35rem; margin-bottom: 1.6rem; }
+.hex-kicker {
+  color: var(--vermilion);
+  letter-spacing: 0.2em;
+  font-size: 0.86rem;
+  margin: 0 0 0.55rem;
+}
+.hex-title {
+  font-size: clamp(2rem, 5vw, 2.9rem);
+  letter-spacing: 0.08em;
+  font-weight: 600;
+  margin: 0 0 0.65rem;
+}
+.hex-symbol { font-size: 0.62em; color: var(--ink-soft); letter-spacing: 0.12em; }
+.hex-summary { color: var(--ink-soft); margin: 0 0 0.85rem; max-width: 40rem; }
+.hex-tags { margin: 0; display: flex; flex-wrap: wrap; gap: 0.45rem; }
+.inline-disclaimer {
+  color: var(--vermilion);
+  font-size: 0.86rem;
+  letter-spacing: 0.03em;
+  border-left: 3px solid var(--vermilion);
+  padding: 0.15rem 0 0.15rem 0.85rem;
+  margin: 0 0 1.6rem;
+}
+.hex-lead {
+  font-size: 1.02rem;
+  color: var(--ink);
+  background: rgba(255, 255, 255, 0.42);
+  border-left: 3px solid var(--line);
+  padding: 0.95rem 1.25rem;
+  margin: 0 0 1.9rem;
+}
+.hex-lead p { margin: 0.35rem 0; }
+
+/* -- markdown 正文 -- */
+.md-body { max-width: 46rem; }
+.md-body h2 {
+  font-size: 1.42rem;
+  letter-spacing: 0.1em;
+  margin: 2.9rem 0 1rem;
+  padding-top: 0.4rem;
+}
+.md-body h3 {
+  font-size: 1.14rem;
+  letter-spacing: 0.07em;
+  margin: 2.1rem 0 0.75rem;
+  color: var(--ink);
+}
+.md-body p { margin: 0.95rem 0; }
+.md-body strong { font-weight: 600; color: #26231E; }
+.md-body ul, .md-body ol { padding-left: 1.55rem; margin: 0.95rem 0; }
+.md-body li { margin: 0.32rem 0; }
+.md-body blockquote {
+  margin: 1.35rem 0;
+  padding: 0.35rem 0 0.35rem 1.35rem;
+  border-left: 3px solid var(--vermilion);
+  color: var(--ink);
+  background: rgba(255, 255, 255, 0.35);
+}
+.md-body blockquote p { margin: 0.55rem 0; }
+.md-body code {
+  background: var(--paper-deep);
+  padding: 0.08em 0.35em;
+  border-radius: 2px;
+  font-size: 0.9em;
+}
+.md-body hr { border: 0; border-top: 1px solid var(--line); margin: 2.4rem 0; }
+.md-body table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1.35rem 0;
+  font-size: 0.95rem;
+  line-height: 1.7;
+  background: rgba(255, 255, 255, 0.35);
+}
+.md-body th, .md-body td {
+  border: 1px solid var(--line);
+  padding: 0.55rem 0.75rem;
+  text-align: left;
+  vertical-align: top;
+}
+.md-body th { background: var(--paper-deep); font-weight: 600; }
+.md-body tr:nth-child(even) td { background: rgba(239, 232, 212, 0.32); }
+
+/* -- 文档页（序言/导读/术语/实例）-- */
+.doc-body { max-width: 48rem; }
+.doc-head { margin-bottom: 1.7rem; }
+.doc-kicker { color: var(--vermilion); letter-spacing: 0.2em; font-size: 0.86rem; margin: 0 0 0.55rem; }
+.doc-head h1 {
+  font-size: clamp(1.85rem, 4.5vw, 2.55rem);
+  letter-spacing: 0.08em;
+  margin: 0 0 0.75rem;
+}
+.doc-head .inline-disclaimer { margin-bottom: 0; }
+
+/* -- 页脚 -- */
+.site-footer {
+  border-top: 1px solid var(--line);
+  padding: 1.9rem clamp(1.1rem, 4vw, 3rem) 2.6rem;
+  background: var(--paper-deep);
+}
+.footer-disclaimer {
+  color: var(--vermilion);
+  margin: 0 0 0.65rem;
+  font-size: 0.95rem;
+}
+.footer-meta { color: var(--ink-soft); margin: 0; font-size: 0.9rem; }
+.footer-meta a { text-decoration: underline; text-underline-offset: 3px; }
+
+/* -- 页内翻页 -- */
+.pager {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  flex-wrap: wrap;
+  border-top: 1px solid var(--line);
+  margin-top: 3.2rem;
+  padding-top: 1.25rem;
+  font-size: 0.95rem;
+}
+.pager-link { color: var(--ink-soft); }
+.pager-link:hover { color: var(--vermilion); }
+
+/* -- 响应式 -- */
+@media (max-width: 60rem) {
+  .card-grid { column-count: 2; }
+}
+@media (max-width: 42rem) {
+  body { font-size: 16px; }
+  .site-header { flex-direction: column; align-items: stretch; }
+  .mini-search input { width: 100%; }
+  .hero { grid-template-columns: 1fr; }
+  .hero-cover img { max-width: 14.5rem; }
+  .card-grid { column-count: 1; }
+  .entry { grid-template-columns: 1fr; gap: 0.25rem; }
+  .page { padding-top: 1.7rem; }
+}
+
+/* -- 打印：声明与水印文字保留，去交互装饰 -- */
+@media print {
+  body { background: #fff; font-size: 11.5pt; }
+  .watermark-layer { display: none; }
+  .site-header, .mini-search, .pager { display: none; }
+  .disclaimer-bar, .footer-disclaimer, .inline-disclaimer {
+    display: block !important;
+    color: #000;
+    border: 1px solid #000;
+    padding: 4pt 8pt;
+    margin: 6pt 0;
+  }
+  .page { padding: 0 8pt; }
+  .site-footer { border-top: 1px solid #000; background: #fff; }
+  .card-grid { column-count: 2; }
+  a { color: #000; }
+}
